@@ -1,0 +1,27 @@
+POLLINATOR DATASET ANALYSIS SUMMARY
+==================================================
+
+BIRDS BEAK (Chloropyron maritimum):
+- Total videos: 122
+- Videos with bombus: 23
+- Detection rate: 18.9%
+- B. vosnesenskii observations: 4
+- B. californicus observations: 9
+
+VENTURA MILKVETCH (Astragalus pycnostachyus):
+- Total videos: 6
+- Videos with bombus: 6
+- Detection rate: 100.0%
+- B. vosnesenskii observations: 0
+- B. californicus observations: 6
+
+OVERALL STATISTICS:
+- Total videos: 128
+- Total videos with bombus: 29
+- Overall detection rate: 22.7%
+
+MACHINE LEARNING RECOMMENDATIONS:
+- Class imbalance: MODERATE
+- Data augmentation: HIGH PRIORITY
+- Recommended batch size: 8
+- Estimated frames needed: ~6,400
