@@ -325,7 +325,7 @@ If you use this work in your research, please cite:
   author={Bischel, Katerina},
   year={2025},
   institution={Bren School of Environmental Science \& Management, UC Santa Barbara},
-  url={https://github.com/[your-username]/bee-monitoring-ml}
+  url={https://github.com/[katerinabischell]/bee-monitoring-ml}
 }
 ```
 
