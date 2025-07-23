@@ -5,6 +5,7 @@
 *Author: Katerina Bischel*  
 *Institution: Bren School of Environmental Science & Management, UCSB*  
 *Advisors: Cheadle Center for Biodiversity and Ecological Restoration - Chris Evelyn and Katja Seltmann*
+
 *Supported by: National Science Foundation Project Extending Anthophila research through image and trait digitalization (Big-Bee #DBI2102006)*
 
 ---
