@@ -26,10 +26,10 @@ Salt Marsh Bird's Beak populations at North Campus Open Space (NCOS) have grown 
 ## Key Results
 
 ### Model Performance
-- **100% Test Accuracy** on real field data
-- **Perfect Precision & Recall** (1.000) for bombus detection
-- **586 training frames** extracted from field videos
-- **31.7% positive class ratio** - excellent for wildlife detection
+- **100% Test Accuracy** on held-out test frames (89 frames)
+- **Perfect Precision & Recall** (1.000) on laboratory test set
+- **94.1% Field Validation Accuracy** on 152 real-world observations
+- **93.1% Recall** and **79.4% Precision** in field deployment conditions
 
 ### Dataset Characteristics
 - **42 videos processed** from weeks 2-4 of 2025 field season
