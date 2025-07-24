@@ -5,6 +5,8 @@
 *Author: Katerina Bischel*  
 *Institution: Bren School of Environmental Science & Management, UCSB*  
 *Project: Cheadle Center for Biodiversity and Ecological Restoration*
+*Advisors: Cheadle Center for Biodiversity and Ecological Restoration - Chris Evelyn and Katja Seltmann*
+*Supported by: National Science Foundation Project Extending Anthophila research through image and trait digitalization (Big-Bee #DBI2102006)*
 
 ---
 
@@ -24,10 +26,10 @@ Salt Marsh Bird's Beak populations at North Campus Open Space (NCOS) have grown 
 ## Key Results
 
 ### Model Performance
-- **100% Test Accuracy** on real field data
-- **Perfect Precision & Recall** (1.000) for bombus detection
-- **586 training frames** extracted from field videos
-- **31.7% positive class ratio** - excellent for wildlife detection
+- **100% Test Accuracy** on held-out test frames (89 frames)
+- **Perfect Precision & Recall** (1.000) on laboratory test set
+- **94.1% Field Validation Accuracy** on 152 real-world observations
+- **93.1% Recall** and **79.4% Precision** in field deployment conditions
 
 ### Dataset Characteristics
 - **42 videos processed** from weeks 2-4 of 2025 field season
@@ -312,9 +314,8 @@ Graduate Student, Bren School of Environmental Science & Management
 University of California, Santa Barbara  
 
 **Project Partners:**
-- **Cheadle Center for Biodiversity and Ecological Restoration** (UCSB)
-- **Tidal Influence** (Restoration Partner)
-- **U.S. Fish and Wildlife Service** (Regulatory Agency)
+- **Cheadle Center for Biodiversity and Ecological Restoration** - Chris Evelyn and Katja Seltmann
+
 
 **For questions about:**
 - **Research methodology**: Contact project team
@@ -334,7 +335,7 @@ If you use this work in your research, please cite:
   author={Bischel, Katerina},
   year={2025},
   institution={Bren School of Environmental Science \& Management, UC Santa Barbara},
-  url={https://github.com/[your-username]/bee-monitoring-ml}
+  url={https://github.com/[katerinabischell]/bee-monitoring-ml}
 }
 ```
 
@@ -350,9 +351,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- **UC Santa Barbara** Cheadle Center for Biodiversity and Ecological Restoration
-- **Tidal Influence** for restoration expertise and field site access
-- **U.S. Fish and Wildlife Service** for species recovery partnership
+- **UC Santa Barbara** Cheadle Center for Biodiversity and Ecological Restoration - Chris Evelyn and Katja Seltmann
+- **National Science Foundation** project Extending Anthophila research through image and trait digitalization (Big-Bee #DBI2102006)
 - **NCOS restoration team** for maintaining field sites and equipment
 - **PyTorch community** for deep learning framework
 - **OpenCV contributors** for computer vision tools
