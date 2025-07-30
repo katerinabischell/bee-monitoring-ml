@@ -1,0 +1,46 @@
+{
+  "video_info": {
+    "path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 6/day 1/site 1/morning/._P1000471.MP4",
+    "relative_path": "ventura_milkvetch/week 6/day 1/site 1/morning/._P1000471.MP4",
+    "week": "week 6",
+    "plant_type": "ventura_milk_vetch",
+    "filename": "._P1000471.MP4"
+  },
+  "confidence_analysis": {
+    "0.1": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 0,
+      "activity_rate": 0
+    },
+    "0.2": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 0,
+      "activity_rate": 0
+    },
+    "0.3": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 0,
+      "activity_rate": 0
+    },
+    "0.4": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 0,
+      "activity_rate": 0
+    },
+    "0.5": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 0,
+      "activity_rate": 0
+    }
+  },
+  "optimal_confidence": 0.3,
+  "reasoning": "No significant activity detected",
+  "final_detections": 0,
+  "final_active_segments": 0,
+  "activity_rate": 0
+}

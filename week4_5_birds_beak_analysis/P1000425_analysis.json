@@ -1,0 +1,591 @@
+{
+  "video_path": "/Volumes/Expansion/summer2025_ncos_kb_collections/birds_beak/week_4/day_2/site_3/mid/P1000425.MP4",
+  "video_name": "P1000425.MP4",
+  "analysis_date": "2025-07-28T21:47:41.826145",
+  "model_used": "models/object_detection/ventura_bombus_yolo/weights/best.pt",
+  "confidence_threshold": 0.1,
+  "video_info": {
+    "duration_seconds": 535.0345,
+    "fps": 59.94005994005994,
+    "total_frames": 32070
+  },
+  "summary": {
+    "total_segments": 2,
+    "active_segments": 2,
+    "total_bee_detections": 162,
+    "peak_segment": 1,
+    "peak_detections": 83,
+    "overall_activity_rate": 1.0
+  },
+  "segments": [
+    {
+      "segment_number": 1,
+      "start_time": 0,
+      "end_time": 300,
+      "duration": 300,
+      "total_detections": 83,
+      "frames_with_bees": 30,
+      "max_simultaneous_bees": 5,
+      "detection_rate": 1.0,
+      "detections": [
+        {
+          "timestamp": 0,
+          "bee_count": 3,
+          "avg_confidence": 0.16401980320612589,
+          "individual_confidences": [
+            0.2143571674823761,
+            0.15268808603286743,
+            0.12501415610313416
+          ]
+        },
+        {
+          "timestamp": 10,
+          "bee_count": 3,
+          "avg_confidence": 0.15320677310228348,
+          "individual_confidences": [
+            0.1800473928451538,
+            0.16239094734191895,
+            0.11718197911977768
+          ]
+        },
+        {
+          "timestamp": 20,
+          "bee_count": 3,
+          "avg_confidence": 0.14629322290420532,
+          "individual_confidences": [
+            0.2040441930294037,
+            0.1278347671031952,
+            0.10700070858001709
+          ]
+        },
+        {
+          "timestamp": 30,
+          "bee_count": 1,
+          "avg_confidence": 0.20711307227611542,
+          "individual_confidences": [
+            0.20711307227611542
+          ]
+        },
+        {
+          "timestamp": 40,
+          "bee_count": 3,
+          "avg_confidence": 0.15220621724923453,
+          "individual_confidences": [
+            0.16354861855506897,
+            0.1495433896780014,
+            0.14352664351463318
+          ]
+        },
+        {
+          "timestamp": 50,
+          "bee_count": 1,
+          "avg_confidence": 0.1697084903717041,
+          "individual_confidences": [
+            0.1697084903717041
+          ]
+        },
+        {
+          "timestamp": 60,
+          "bee_count": 3,
+          "avg_confidence": 0.20647989710172018,
+          "individual_confidences": [
+            0.30323779582977295,
+            0.21174143254756927,
+            0.1044604629278183
+          ]
+        },
+        {
+          "timestamp": 70,
+          "bee_count": 4,
+          "avg_confidence": 0.19785333424806595,
+          "individual_confidences": [
+            0.21842652559280396,
+            0.2098788172006607,
+            0.192050039768219,
+            0.17105795443058014
+          ]
+        },
+        {
+          "timestamp": 80,
+          "bee_count": 3,
+          "avg_confidence": 0.17343179136514664,
+          "individual_confidences": [
+            0.2225884050130844,
+            0.19098101556301117,
+            0.10672595351934433
+          ]
+        },
+        {
+          "timestamp": 90,
+          "bee_count": 1,
+          "avg_confidence": 0.21816305816173553,
+          "individual_confidences": [
+            0.21816305816173553
+          ]
+        },
+        {
+          "timestamp": 100,
+          "bee_count": 2,
+          "avg_confidence": 0.18224961310625076,
+          "individual_confidences": [
+            0.2133292257785797,
+            0.15117000043392181
+          ]
+        },
+        {
+          "timestamp": 110,
+          "bee_count": 2,
+          "avg_confidence": 0.1100260429084301,
+          "individual_confidences": [
+            0.11047860980033875,
+            0.10957347601652145
+          ]
+        },
+        {
+          "timestamp": 120,
+          "bee_count": 3,
+          "avg_confidence": 0.24684386452039084,
+          "individual_confidences": [
+            0.2998143136501312,
+            0.25647982954978943,
+            0.18423745036125183
+          ]
+        },
+        {
+          "timestamp": 130,
+          "bee_count": 2,
+          "avg_confidence": 0.18241151422262192,
+          "individual_confidences": [
+            0.21716351807117462,
+            0.1476595103740692
+          ]
+        },
+        {
+          "timestamp": 140,
+          "bee_count": 2,
+          "avg_confidence": 0.178768128156662,
+          "individual_confidences": [
+            0.24827887117862701,
+            0.10925738513469696
+          ]
+        },
+        {
+          "timestamp": 150,
+          "bee_count": 2,
+          "avg_confidence": 0.13467339798808098,
+          "individual_confidences": [
+            0.14566263556480408,
+            0.12368416041135788
+          ]
+        },
+        {
+          "timestamp": 160,
+          "bee_count": 1,
+          "avg_confidence": 0.20330007374286652,
+          "individual_confidences": [
+            0.20330007374286652
+          ]
+        },
+        {
+          "timestamp": 170,
+          "bee_count": 2,
+          "avg_confidence": 0.1776897981762886,
+          "individual_confidences": [
+            0.21401624381542206,
+            0.14136335253715515
+          ]
+        },
+        {
+          "timestamp": 180,
+          "bee_count": 4,
+          "avg_confidence": 0.1290019527077675,
+          "individual_confidences": [
+            0.15087050199508667,
+            0.12883523106575012,
+            0.11938583105802536,
+            0.1169162467122078
+          ]
+        },
+        {
+          "timestamp": 190,
+          "bee_count": 2,
+          "avg_confidence": 0.12548434361815453,
+          "individual_confidences": [
+            0.1492011994123459,
+            0.10176748782396317
+          ]
+        },
+        {
+          "timestamp": 200,
+          "bee_count": 3,
+          "avg_confidence": 0.17105931788682938,
+          "individual_confidences": [
+            0.2038639783859253,
+            0.19541633129119873,
+            0.1138976439833641
+          ]
+        },
+        {
+          "timestamp": 210,
+          "bee_count": 4,
+          "avg_confidence": 0.17935780063271523,
+          "individual_confidences": [
+            0.3070411682128906,
+            0.17526111006736755,
+            0.11804183572530746,
+            0.11708708852529526
+          ]
+        },
+        {
+          "timestamp": 220,
+          "bee_count": 5,
+          "avg_confidence": 0.14872425943613052,
+          "individual_confidences": [
+            0.23631000518798828,
+            0.14829635620117188,
+            0.1325337439775467,
+            0.1233968660235405,
+            0.10308432579040527
+          ]
+        },
+        {
+          "timestamp": 230,
+          "bee_count": 4,
+          "avg_confidence": 0.15778180956840515,
+          "individual_confidences": [
+            0.20580866932868958,
+            0.1687556505203247,
+            0.13919806480407715,
+            0.11736485362052917
+          ]
+        },
+        {
+          "timestamp": 240,
+          "bee_count": 4,
+          "avg_confidence": 0.13833392038941383,
+          "individual_confidences": [
+            0.15299995243549347,
+            0.14341460168361664,
+            0.13130402565002441,
+            0.1256171017885208
+          ]
+        },
+        {
+          "timestamp": 250,
+          "bee_count": 3,
+          "avg_confidence": 0.12645542373259863,
+          "individual_confidences": [
+            0.1483803391456604,
+            0.11921343952417374,
+            0.11177249252796173
+          ]
+        },
+        {
+          "timestamp": 260,
+          "bee_count": 3,
+          "avg_confidence": 0.16582170128822327,
+          "individual_confidences": [
+            0.20964597165584564,
+            0.16068565845489502,
+            0.12713347375392914
+          ]
+        },
+        {
+          "timestamp": 270,
+          "bee_count": 2,
+          "avg_confidence": 0.17446955293416977,
+          "individual_confidences": [
+            0.1746031641960144,
+            0.17433594167232513
+          ]
+        },
+        {
+          "timestamp": 280,
+          "bee_count": 3,
+          "avg_confidence": 0.15898904701073965,
+          "individual_confidences": [
+            0.24791201949119568,
+            0.12195678055286407,
+            0.10709834098815918
+          ]
+        },
+        {
+          "timestamp": 290,
+          "bee_count": 5,
+          "avg_confidence": 0.20110070407390596,
+          "individual_confidences": [
+            0.3496931791305542,
+            0.22961853444576263,
+            0.2028631865978241,
+            0.123192198574543,
+            0.1001364216208458
+          ]
+        }
+      ]
+    },
+    {
+      "segment_number": 2,
+      "start_time": 300,
+      "end_time": 535.0345,
+      "duration": 235.03449999999998,
+      "total_detections": 79,
+      "frames_with_bees": 24,
+      "max_simultaneous_bees": 4,
+      "detection_rate": 1.0,
+      "detections": [
+        {
+          "timestamp": 300,
+          "bee_count": 4,
+          "avg_confidence": 0.19506179727613926,
+          "individual_confidences": [
+            0.2441466599702835,
+            0.24328525364398956,
+            0.1709485799074173,
+            0.12186669558286667
+          ]
+        },
+        {
+          "timestamp": 310,
+          "bee_count": 3,
+          "avg_confidence": 0.20578098793824515,
+          "individual_confidences": [
+            0.2603314220905304,
+            0.206863135099411,
+            0.150148406624794
+          ]
+        },
+        {
+          "timestamp": 320,
+          "bee_count": 4,
+          "avg_confidence": 0.1458574179559946,
+          "individual_confidences": [
+            0.18414932489395142,
+            0.1756395399570465,
+            0.1200375184416771,
+            0.1036032885313034
+          ]
+        },
+        {
+          "timestamp": 330,
+          "bee_count": 3,
+          "avg_confidence": 0.20578908423582712,
+          "individual_confidences": [
+            0.30332979559898376,
+            0.18811064958572388,
+            0.12592680752277374
+          ]
+        },
+        {
+          "timestamp": 340,
+          "bee_count": 4,
+          "avg_confidence": 0.17482948675751686,
+          "individual_confidences": [
+            0.23837077617645264,
+            0.17366397380828857,
+            0.15843014419078827,
+            0.12885305285453796
+          ]
+        },
+        {
+          "timestamp": 350,
+          "bee_count": 3,
+          "avg_confidence": 0.14449437956015268,
+          "individual_confidences": [
+            0.19016477465629578,
+            0.14271806180477142,
+            0.10060030221939087
+          ]
+        },
+        {
+          "timestamp": 360,
+          "bee_count": 4,
+          "avg_confidence": 0.17215983755886555,
+          "individual_confidences": [
+            0.23415431380271912,
+            0.20917989313602448,
+            0.12353363633155823,
+            0.12177150696516037
+          ]
+        },
+        {
+          "timestamp": 370,
+          "bee_count": 3,
+          "avg_confidence": 0.19207251071929932,
+          "individual_confidences": [
+            0.2731943726539612,
+            0.1922737956047058,
+            0.11074936389923096
+          ]
+        },
+        {
+          "timestamp": 380,
+          "bee_count": 3,
+          "avg_confidence": 0.15654188642899194,
+          "individual_confidences": [
+            0.2275485396385193,
+            0.13498985767364502,
+            0.10708726197481155
+          ]
+        },
+        {
+          "timestamp": 390,
+          "bee_count": 3,
+          "avg_confidence": 0.11041536182165146,
+          "individual_confidences": [
+            0.12906858325004578,
+            0.10214646905660629,
+            0.10003103315830231
+          ]
+        },
+        {
+          "timestamp": 400,
+          "bee_count": 3,
+          "avg_confidence": 0.14788479109605154,
+          "individual_confidences": [
+            0.1831495612859726,
+            0.13529878854751587,
+            0.12520602345466614
+          ]
+        },
+        {
+          "timestamp": 410,
+          "bee_count": 4,
+          "avg_confidence": 0.14493418484926224,
+          "individual_confidences": [
+            0.1875477135181427,
+            0.15191954374313354,
+            0.1401023417711258,
+            0.10016714036464691
+          ]
+        },
+        {
+          "timestamp": 420,
+          "bee_count": 2,
+          "avg_confidence": 0.25894680619239807,
+          "individual_confidences": [
+            0.2905271649360657,
+            0.22736644744873047
+          ]
+        },
+        {
+          "timestamp": 430,
+          "bee_count": 4,
+          "avg_confidence": 0.2291492149233818,
+          "individual_confidences": [
+            0.3168211579322815,
+            0.2361413538455963,
+            0.18397845327854156,
+            0.17965589463710785
+          ]
+        },
+        {
+          "timestamp": 440,
+          "bee_count": 4,
+          "avg_confidence": 0.20341496542096138,
+          "individual_confidences": [
+            0.3046426475048065,
+            0.1772097796201706,
+            0.1721360981464386,
+            0.1596713364124298
+          ]
+        },
+        {
+          "timestamp": 450,
+          "bee_count": 3,
+          "avg_confidence": 0.1525961011648178,
+          "individual_confidences": [
+            0.18023698031902313,
+            0.15448223054409027,
+            0.12306909263134003
+          ]
+        },
+        {
+          "timestamp": 460,
+          "bee_count": 2,
+          "avg_confidence": 0.24015899747610092,
+          "individual_confidences": [
+            0.24238428473472595,
+            0.2379337102174759
+          ]
+        },
+        {
+          "timestamp": 470,
+          "bee_count": 3,
+          "avg_confidence": 0.2148380974928538,
+          "individual_confidences": [
+            0.25241804122924805,
+            0.23101598024368286,
+            0.1610802710056305
+          ]
+        },
+        {
+          "timestamp": 480,
+          "bee_count": 4,
+          "avg_confidence": 0.14917581714689732,
+          "individual_confidences": [
+            0.16102801263332367,
+            0.16069549322128296,
+            0.1525995135307312,
+            0.12238024920225143
+          ]
+        },
+        {
+          "timestamp": 490,
+          "bee_count": 3,
+          "avg_confidence": 0.19346535702546439,
+          "individual_confidences": [
+            0.267475426197052,
+            0.21023932099342346,
+            0.10268132388591766
+          ]
+        },
+        {
+          "timestamp": 500,
+          "bee_count": 4,
+          "avg_confidence": 0.19219639152288437,
+          "individual_confidences": [
+            0.2788633704185486,
+            0.22797147929668427,
+            0.1430618017911911,
+            0.11888891458511353
+          ]
+        },
+        {
+          "timestamp": 510,
+          "bee_count": 3,
+          "avg_confidence": 0.220489631096522,
+          "individual_confidences": [
+            0.3431396484375,
+            0.21302588284015656,
+            0.10530336201190948
+          ]
+        },
+        {
+          "timestamp": 520,
+          "bee_count": 4,
+          "avg_confidence": 0.2030650805681944,
+          "individual_confidences": [
+            0.29629161953926086,
+            0.25255611538887024,
+            0.14602574706077576,
+            0.1173868402838707
+          ]
+        },
+        {
+          "timestamp": 530,
+          "bee_count": 2,
+          "avg_confidence": 0.27814123779535294,
+          "individual_confidences": [
+            0.40554094314575195,
+            0.15074153244495392
+          ]
+        }
+      ]
+    }
+  ],
+  "week_info": {
+    "week": 4,
+    "plant_type": "birds_beak",
+    "relative_path": "week_4/day_2/site_3/mid/P1000425.MP4"
+  }
+}

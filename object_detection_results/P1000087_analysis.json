@@ -1,0 +1,829 @@
+{
+  "video_path": "/Volumes/Expansion/summer2025_ncos_kb_collections/birds_beak/week_2/day_1/site_3/mid/P1000087.MP4",
+  "analysis_date": "2025-07-28T15:58:16.932965",
+  "current_model_results": "{'detection_rate': 1.0, 'bombus_detections': 30, 'high_confidence': 30, 'avg_confidence': np.float64(0.9997043351332346), 'detection_times': [np.float64(0.0), np.float64(43.57686666666667), np.float64(87.15373333333334), np.float64(130.7306), np.float64(174.30746666666667), np.float64(217.88433333333333), np.float64(261.4612), np.float64(305.0380666666667), np.float64(348.61493333333334), np.float64(392.1918), np.float64(435.76866666666666), np.float64(479.3455333333333), np.float64(522.9224), np.float64(566.4992666666667), np.float64(610.0761333333334), np.float64(653.653), np.float64(697.2298666666667), np.float64(740.8067333333333), np.float64(784.3836), np.float64(827.9604666666667), np.float64(871.5373333333333), np.float64(915.1142), np.float64(958.6910666666666), np.float64(1002.2679333333333), np.float64(1045.8448), np.float64(1089.4216666666666), np.float64(1132.9985333333334), np.float64(1176.5754), np.float64(1220.1522666666667), np.float64(1263.7458166666668)]}",
+  "segments": [
+    {
+      "segment_number": 1,
+      "start_time": 0,
+      "end_time": 300,
+      "duration": 300,
+      "detections": [
+        {
+          "timestamp": 0,
+          "frame_number": 0,
+          "has_bombus": true,
+          "confidence": 0.9999071359634399
+        },
+        {
+          "timestamp": 10,
+          "frame_number": 599,
+          "has_bombus": true,
+          "confidence": 0.9999655485153198
+        },
+        {
+          "timestamp": 20,
+          "frame_number": 1198,
+          "has_bombus": true,
+          "confidence": 0.9999617338180542
+        },
+        {
+          "timestamp": 30,
+          "frame_number": 1798,
+          "has_bombus": true,
+          "confidence": 0.9999663829803467
+        },
+        {
+          "timestamp": 40,
+          "frame_number": 2397,
+          "has_bombus": true,
+          "confidence": 0.9999521970748901
+        },
+        {
+          "timestamp": 50,
+          "frame_number": 2997,
+          "has_bombus": true,
+          "confidence": 0.9999443292617798
+        },
+        {
+          "timestamp": 60,
+          "frame_number": 3596,
+          "has_bombus": true,
+          "confidence": 0.9999608993530273
+        },
+        {
+          "timestamp": 70,
+          "frame_number": 4195,
+          "has_bombus": true,
+          "confidence": 0.9999451637268066
+        },
+        {
+          "timestamp": 80,
+          "frame_number": 4795,
+          "has_bombus": true,
+          "confidence": 0.9999321699142456
+        },
+        {
+          "timestamp": 90,
+          "frame_number": 5394,
+          "has_bombus": true,
+          "confidence": 0.9999587535858154
+        },
+        {
+          "timestamp": 100,
+          "frame_number": 5994,
+          "has_bombus": true,
+          "confidence": 0.9999332427978516
+        },
+        {
+          "timestamp": 110,
+          "frame_number": 6593,
+          "has_bombus": true,
+          "confidence": 0.9999440908432007
+        },
+        {
+          "timestamp": 120,
+          "frame_number": 7192,
+          "has_bombus": true,
+          "confidence": 0.9999614953994751
+        },
+        {
+          "timestamp": 130,
+          "frame_number": 7792,
+          "has_bombus": true,
+          "confidence": 0.9999649524688721
+        },
+        {
+          "timestamp": 140,
+          "frame_number": 8391,
+          "has_bombus": true,
+          "confidence": 0.9999594688415527
+        },
+        {
+          "timestamp": 150,
+          "frame_number": 8991,
+          "has_bombus": true,
+          "confidence": 0.999951958656311
+        },
+        {
+          "timestamp": 160,
+          "frame_number": 9590,
+          "has_bombus": true,
+          "confidence": 0.9999731779098511
+        },
+        {
+          "timestamp": 170,
+          "frame_number": 10189,
+          "has_bombus": true,
+          "confidence": 0.9999637603759766
+        },
+        {
+          "timestamp": 180,
+          "frame_number": 10789,
+          "has_bombus": true,
+          "confidence": 0.9999639987945557
+        },
+        {
+          "timestamp": 190,
+          "frame_number": 11388,
+          "has_bombus": true,
+          "confidence": 0.9999682903289795
+        },
+        {
+          "timestamp": 200,
+          "frame_number": 11988,
+          "has_bombus": true,
+          "confidence": 0.9999638795852661
+        },
+        {
+          "timestamp": 210,
+          "frame_number": 12587,
+          "has_bombus": true,
+          "confidence": 0.9999618530273438
+        },
+        {
+          "timestamp": 220,
+          "frame_number": 13186,
+          "has_bombus": true,
+          "confidence": 0.9999778270721436
+        },
+        {
+          "timestamp": 230,
+          "frame_number": 13786,
+          "has_bombus": true,
+          "confidence": 0.9999639987945557
+        },
+        {
+          "timestamp": 240,
+          "frame_number": 14385,
+          "has_bombus": true,
+          "confidence": 0.9999604225158691
+        },
+        {
+          "timestamp": 250,
+          "frame_number": 14985,
+          "has_bombus": true,
+          "confidence": 0.9999585151672363
+        },
+        {
+          "timestamp": 260,
+          "frame_number": 15584,
+          "has_bombus": true,
+          "confidence": 0.9999678134918213
+        },
+        {
+          "timestamp": 270,
+          "frame_number": 16183,
+          "has_bombus": true,
+          "confidence": 0.9999692440032959
+        },
+        {
+          "timestamp": 280,
+          "frame_number": 16783,
+          "has_bombus": true,
+          "confidence": 0.99997878074646
+        },
+        {
+          "timestamp": 290,
+          "frame_number": 17382,
+          "has_bombus": true,
+          "confidence": 0.9999771118164062
+        }
+      ],
+      "bee_count": 30,
+      "avg_confidence": 0.999958606561025,
+      "detection_rate": 1.0
+    },
+    {
+      "segment_number": 2,
+      "start_time": 300,
+      "end_time": 600,
+      "duration": 300,
+      "detections": [
+        {
+          "timestamp": 300,
+          "frame_number": 17982,
+          "has_bombus": true,
+          "confidence": 0.9999710321426392
+        },
+        {
+          "timestamp": 310,
+          "frame_number": 18581,
+          "has_bombus": true,
+          "confidence": 0.9999744892120361
+        },
+        {
+          "timestamp": 320,
+          "frame_number": 19180,
+          "has_bombus": true,
+          "confidence": 0.9999786615371704
+        },
+        {
+          "timestamp": 330,
+          "frame_number": 19780,
+          "has_bombus": true,
+          "confidence": 0.9999423027038574
+        },
+        {
+          "timestamp": 340,
+          "frame_number": 20379,
+          "has_bombus": true,
+          "confidence": 0.9999687671661377
+        },
+        {
+          "timestamp": 350,
+          "frame_number": 20979,
+          "has_bombus": true,
+          "confidence": 0.9999769926071167
+        },
+        {
+          "timestamp": 360,
+          "frame_number": 21578,
+          "has_bombus": true,
+          "confidence": 0.9999686479568481
+        },
+        {
+          "timestamp": 370,
+          "frame_number": 22177,
+          "has_bombus": true,
+          "confidence": 0.9999769926071167
+        },
+        {
+          "timestamp": 380,
+          "frame_number": 22777,
+          "has_bombus": true,
+          "confidence": 0.9999749660491943
+        },
+        {
+          "timestamp": 390,
+          "frame_number": 23376,
+          "has_bombus": true,
+          "confidence": 0.999981164932251
+        },
+        {
+          "timestamp": 400,
+          "frame_number": 23976,
+          "has_bombus": true,
+          "confidence": 0.9999645948410034
+        },
+        {
+          "timestamp": 410,
+          "frame_number": 24575,
+          "has_bombus": true,
+          "confidence": 0.9999728202819824
+        },
+        {
+          "timestamp": 420,
+          "frame_number": 25174,
+          "has_bombus": true,
+          "confidence": 0.9999674558639526
+        },
+        {
+          "timestamp": 430,
+          "frame_number": 25774,
+          "has_bombus": true,
+          "confidence": 0.9999752044677734
+        },
+        {
+          "timestamp": 440,
+          "frame_number": 26373,
+          "has_bombus": true,
+          "confidence": 0.9999732971191406
+        },
+        {
+          "timestamp": 450,
+          "frame_number": 26973,
+          "has_bombus": true,
+          "confidence": 0.9999735355377197
+        },
+        {
+          "timestamp": 460,
+          "frame_number": 27572,
+          "has_bombus": true,
+          "confidence": 0.9999717473983765
+        },
+        {
+          "timestamp": 470,
+          "frame_number": 28171,
+          "has_bombus": true,
+          "confidence": 0.9999783039093018
+        },
+        {
+          "timestamp": 480,
+          "frame_number": 28771,
+          "has_bombus": true,
+          "confidence": 0.9999784231185913
+        },
+        {
+          "timestamp": 490,
+          "frame_number": 29370,
+          "has_bombus": true,
+          "confidence": 0.9999783039093018
+        },
+        {
+          "timestamp": 500,
+          "frame_number": 29970,
+          "has_bombus": true,
+          "confidence": 0.9999843835830688
+        },
+        {
+          "timestamp": 510,
+          "frame_number": 30569,
+          "has_bombus": true,
+          "confidence": 0.9999716281890869
+        },
+        {
+          "timestamp": 520,
+          "frame_number": 31168,
+          "has_bombus": true,
+          "confidence": 0.9999783039093018
+        },
+        {
+          "timestamp": 530,
+          "frame_number": 31768,
+          "has_bombus": true,
+          "confidence": 0.9999758005142212
+        },
+        {
+          "timestamp": 540,
+          "frame_number": 32367,
+          "has_bombus": true,
+          "confidence": 0.9999704360961914
+        },
+        {
+          "timestamp": 550,
+          "frame_number": 32967,
+          "has_bombus": true,
+          "confidence": 0.9999847412109375
+        },
+        {
+          "timestamp": 560,
+          "frame_number": 33566,
+          "has_bombus": true,
+          "confidence": 0.9999746084213257
+        },
+        {
+          "timestamp": 570,
+          "frame_number": 34165,
+          "has_bombus": true,
+          "confidence": 0.9999762773513794
+        },
+        {
+          "timestamp": 580,
+          "frame_number": 34765,
+          "has_bombus": true,
+          "confidence": 0.9999793767929077
+        },
+        {
+          "timestamp": 590,
+          "frame_number": 35364,
+          "has_bombus": true,
+          "confidence": 0.9999768733978271
+        }
+      ],
+      "bee_count": 30,
+      "avg_confidence": 0.999974004427592,
+      "detection_rate": 1.0
+    },
+    {
+      "segment_number": 3,
+      "start_time": 600,
+      "end_time": 900,
+      "duration": 300,
+      "detections": [
+        {
+          "timestamp": 600,
+          "frame_number": 35964,
+          "has_bombus": true,
+          "confidence": 0.9999765157699585
+        },
+        {
+          "timestamp": 610,
+          "frame_number": 36563,
+          "has_bombus": true,
+          "confidence": 0.9999788999557495
+        },
+        {
+          "timestamp": 620,
+          "frame_number": 37162,
+          "has_bombus": true,
+          "confidence": 0.9999890327453613
+        },
+        {
+          "timestamp": 630,
+          "frame_number": 37762,
+          "has_bombus": true,
+          "confidence": 0.9999827146530151
+        },
+        {
+          "timestamp": 640,
+          "frame_number": 38361,
+          "has_bombus": true,
+          "confidence": 0.9999779462814331
+        },
+        {
+          "timestamp": 650,
+          "frame_number": 38961,
+          "has_bombus": true,
+          "confidence": 0.9999819993972778
+        },
+        {
+          "timestamp": 660,
+          "frame_number": 39560,
+          "has_bombus": true,
+          "confidence": 0.9999823570251465
+        },
+        {
+          "timestamp": 670,
+          "frame_number": 40159,
+          "has_bombus": true,
+          "confidence": 0.9999784231185913
+        },
+        {
+          "timestamp": 680,
+          "frame_number": 40759,
+          "has_bombus": true,
+          "confidence": 0.9999740123748779
+        },
+        {
+          "timestamp": 690,
+          "frame_number": 41358,
+          "has_bombus": true,
+          "confidence": 0.9999762773513794
+        },
+        {
+          "timestamp": 700,
+          "frame_number": 41958,
+          "has_bombus": true,
+          "confidence": 0.9999661445617676
+        },
+        {
+          "timestamp": 710,
+          "frame_number": 42557,
+          "has_bombus": true,
+          "confidence": 0.9999809265136719
+        },
+        {
+          "timestamp": 720,
+          "frame_number": 43156,
+          "has_bombus": true,
+          "confidence": 0.9999841451644897
+        },
+        {
+          "timestamp": 730,
+          "frame_number": 43756,
+          "has_bombus": true,
+          "confidence": 0.9999847412109375
+        },
+        {
+          "timestamp": 740,
+          "frame_number": 44355,
+          "has_bombus": true,
+          "confidence": 0.9999872446060181
+        },
+        {
+          "timestamp": 750,
+          "frame_number": 44955,
+          "has_bombus": true,
+          "confidence": 0.9999858140945435
+        },
+        {
+          "timestamp": 760,
+          "frame_number": 45554,
+          "has_bombus": true,
+          "confidence": 0.9999803304672241
+        },
+        {
+          "timestamp": 770,
+          "frame_number": 46153,
+          "has_bombus": true,
+          "confidence": 0.9999874830245972
+        },
+        {
+          "timestamp": 780,
+          "frame_number": 46753,
+          "has_bombus": true,
+          "confidence": 0.99998939037323
+        },
+        {
+          "timestamp": 790,
+          "frame_number": 47352,
+          "has_bombus": true,
+          "confidence": 0.9999611377716064
+        },
+        {
+          "timestamp": 800,
+          "frame_number": 47952,
+          "has_bombus": true,
+          "confidence": 0.9999803304672241
+        },
+        {
+          "timestamp": 810,
+          "frame_number": 48551,
+          "has_bombus": true,
+          "confidence": 0.9999866485595703
+        },
+        {
+          "timestamp": 820,
+          "frame_number": 49150,
+          "has_bombus": true,
+          "confidence": 0.9999865293502808
+        },
+        {
+          "timestamp": 830,
+          "frame_number": 49750,
+          "has_bombus": true,
+          "confidence": 0.9999904632568359
+        },
+        {
+          "timestamp": 840,
+          "frame_number": 50349,
+          "has_bombus": true,
+          "confidence": 0.9999837875366211
+        },
+        {
+          "timestamp": 850,
+          "frame_number": 50949,
+          "has_bombus": true,
+          "confidence": 0.9999806880950928
+        },
+        {
+          "timestamp": 860,
+          "frame_number": 51548,
+          "has_bombus": true,
+          "confidence": 0.9999866485595703
+        },
+        {
+          "timestamp": 870,
+          "frame_number": 52147,
+          "has_bombus": true,
+          "confidence": 0.9999858140945435
+        },
+        {
+          "timestamp": 880,
+          "frame_number": 52747,
+          "has_bombus": true,
+          "confidence": 0.9999874830245972
+        },
+        {
+          "timestamp": 890,
+          "frame_number": 53346,
+          "has_bombus": true,
+          "confidence": 0.9999877214431763
+        }
+      ],
+      "bee_count": 30,
+      "avg_confidence": 0.9999820550282796,
+      "detection_rate": 1.0
+    },
+    {
+      "segment_number": 4,
+      "start_time": 900,
+      "end_time": 1200,
+      "duration": 300,
+      "detections": [
+        {
+          "timestamp": 900,
+          "frame_number": 53946,
+          "has_bombus": true,
+          "confidence": 0.9999866485595703
+        },
+        {
+          "timestamp": 910,
+          "frame_number": 54545,
+          "has_bombus": true,
+          "confidence": 0.9999821186065674
+        },
+        {
+          "timestamp": 920,
+          "frame_number": 55144,
+          "has_bombus": true,
+          "confidence": 0.9999916553497314
+        },
+        {
+          "timestamp": 930,
+          "frame_number": 55744,
+          "has_bombus": true,
+          "confidence": 0.9999877214431763
+        },
+        {
+          "timestamp": 940,
+          "frame_number": 56343,
+          "has_bombus": true,
+          "confidence": 0.9999897480010986
+        },
+        {
+          "timestamp": 950,
+          "frame_number": 56943,
+          "has_bombus": true,
+          "confidence": 0.9999853372573853
+        },
+        {
+          "timestamp": 960,
+          "frame_number": 57542,
+          "has_bombus": true,
+          "confidence": 0.999984622001648
+        },
+        {
+          "timestamp": 970,
+          "frame_number": 58141,
+          "has_bombus": true,
+          "confidence": 0.999985933303833
+        },
+        {
+          "timestamp": 980,
+          "frame_number": 58741,
+          "has_bombus": true,
+          "confidence": 0.9999881982803345
+        },
+        {
+          "timestamp": 990,
+          "frame_number": 59340,
+          "has_bombus": true,
+          "confidence": 0.9999873638153076
+        },
+        {
+          "timestamp": 1000,
+          "frame_number": 59940,
+          "has_bombus": true,
+          "confidence": 0.99998939037323
+        },
+        {
+          "timestamp": 1010,
+          "frame_number": 60539,
+          "has_bombus": true,
+          "confidence": 0.9999891519546509
+        },
+        {
+          "timestamp": 1020,
+          "frame_number": 61138,
+          "has_bombus": true,
+          "confidence": 0.9999912977218628
+        },
+        {
+          "timestamp": 1030,
+          "frame_number": 61738,
+          "has_bombus": true,
+          "confidence": 0.9999891519546509
+        },
+        {
+          "timestamp": 1040,
+          "frame_number": 62337,
+          "has_bombus": true,
+          "confidence": 0.9999890327453613
+        },
+        {
+          "timestamp": 1050,
+          "frame_number": 62937,
+          "has_bombus": true,
+          "confidence": 0.9999847412109375
+        },
+        {
+          "timestamp": 1060,
+          "frame_number": 63536,
+          "has_bombus": true,
+          "confidence": 0.9999872446060181
+        },
+        {
+          "timestamp": 1070,
+          "frame_number": 64135,
+          "has_bombus": true,
+          "confidence": 0.99998939037323
+        },
+        {
+          "timestamp": 1080,
+          "frame_number": 64735,
+          "has_bombus": true,
+          "confidence": 0.9999847412109375
+        },
+        {
+          "timestamp": 1090,
+          "frame_number": 65334,
+          "has_bombus": true,
+          "confidence": 0.9999840259552002
+        },
+        {
+          "timestamp": 1100,
+          "frame_number": 65934,
+          "has_bombus": true,
+          "confidence": 0.9999903440475464
+        },
+        {
+          "timestamp": 1110,
+          "frame_number": 66533,
+          "has_bombus": true,
+          "confidence": 0.9999912977218628
+        },
+        {
+          "timestamp": 1120,
+          "frame_number": 67132,
+          "has_bombus": true,
+          "confidence": 0.9999896287918091
+        },
+        {
+          "timestamp": 1130,
+          "frame_number": 67732,
+          "has_bombus": true,
+          "confidence": 0.9999889135360718
+        },
+        {
+          "timestamp": 1140,
+          "frame_number": 68331,
+          "has_bombus": true,
+          "confidence": 0.9999932050704956
+        },
+        {
+          "timestamp": 1150,
+          "frame_number": 68931,
+          "has_bombus": true,
+          "confidence": 0.9999897480010986
+        },
+        {
+          "timestamp": 1160,
+          "frame_number": 69530,
+          "has_bombus": true,
+          "confidence": 0.9999903440475464
+        },
+        {
+          "timestamp": 1170,
+          "frame_number": 70129,
+          "has_bombus": true,
+          "confidence": 0.9999873638153076
+        },
+        {
+          "timestamp": 1180,
+          "frame_number": 70729,
+          "has_bombus": true,
+          "confidence": 0.9999896287918091
+        },
+        {
+          "timestamp": 1190,
+          "frame_number": 71328,
+          "has_bombus": true,
+          "confidence": 0.9999861717224121
+        }
+      ],
+      "bee_count": 30,
+      "avg_confidence": 0.9999881386756897,
+      "detection_rate": 1.0
+    },
+    {
+      "segment_number": 5,
+      "start_time": 1200,
+      "end_time": 1263.7625,
+      "duration": 63.762500000000045,
+      "detections": [
+        {
+          "timestamp": 1200,
+          "frame_number": 71928,
+          "has_bombus": true,
+          "confidence": 0.9999881982803345
+        },
+        {
+          "timestamp": 1210,
+          "frame_number": 72527,
+          "has_bombus": true,
+          "confidence": 0.999990701675415
+        },
+        {
+          "timestamp": 1220,
+          "frame_number": 73126,
+          "has_bombus": true,
+          "confidence": 0.9999856948852539
+        },
+        {
+          "timestamp": 1230,
+          "frame_number": 73726,
+          "has_bombus": true,
+          "confidence": 0.9999873638153076
+        },
+        {
+          "timestamp": 1240,
+          "frame_number": 74325,
+          "has_bombus": true,
+          "confidence": 0.9999885559082031
+        },
+        {
+          "timestamp": 1250,
+          "frame_number": 74925,
+          "has_bombus": true,
+          "confidence": 0.9999909400939941
+        },
+        {
+          "timestamp": 1260,
+          "frame_number": 75524,
+          "has_bombus": true,
+          "confidence": 0.99998939037323
+        }
+      ],
+      "bee_count": 7,
+      "avg_confidence": 0.9999886921473912,
+      "detection_rate": 1.0
+    }
+  ],
+  "summary": {
+    "total_segments": 5,
+    "active_segments": 5,
+    "total_detections": 127
+  }
+}

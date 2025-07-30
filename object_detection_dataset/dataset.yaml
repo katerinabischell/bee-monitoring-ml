@@ -1,0 +1,7 @@
+names:
+- bombus
+nc: 1
+path: /Users/ktdroppa/Desktop/bee-monitoring-ml/object_detection_dataset
+test: images/test
+train: images/train
+val: images/val

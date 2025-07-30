@@ -1,0 +1,122 @@
+{
+  "video_path": "/Volumes/Expansion/summer2025_ncos_kb_collections/birds_beak/week_5/day_1/site_4/afternoon/P1000408.MP4",
+  "video_name": "P1000408.MP4",
+  "analysis_date": "2025-07-28T22:01:24.389718",
+  "model_used": "models/object_detection/ventura_bombus_yolo/weights/best.pt",
+  "confidence_threshold": 0.1,
+  "video_info": {
+    "duration_seconds": 64.06400000000001,
+    "fps": 59.94005994005994,
+    "total_frames": 3840
+  },
+  "summary": {
+    "total_segments": 1,
+    "active_segments": 1,
+    "total_bee_detections": 34,
+    "peak_segment": 1,
+    "peak_detections": 34,
+    "overall_activity_rate": 1.0
+  },
+  "segments": [
+    {
+      "segment_number": 1,
+      "start_time": 0,
+      "end_time": 64.06400000000001,
+      "duration": 64.06400000000001,
+      "total_detections": 34,
+      "frames_with_bees": 7,
+      "max_simultaneous_bees": 9,
+      "detection_rate": 1.0,
+      "detections": [
+        {
+          "timestamp": 0,
+          "bee_count": 4,
+          "avg_confidence": 0.1252450980246067,
+          "individual_confidences": [
+            0.15101349353790283,
+            0.14020490646362305,
+            0.10784231871366501,
+            0.10191967338323593
+          ]
+        },
+        {
+          "timestamp": 10,
+          "bee_count": 9,
+          "avg_confidence": 0.13008227778805626,
+          "individual_confidences": [
+            0.17869232594966888,
+            0.15178050100803375,
+            0.14137625694274902,
+            0.12323325872421265,
+            0.12105181813240051,
+            0.12003207951784134,
+            0.11236722767353058,
+            0.11212176829576492,
+            0.11008526384830475
+          ]
+        },
+        {
+          "timestamp": 20,
+          "bee_count": 4,
+          "avg_confidence": 0.15042524971067905,
+          "individual_confidences": [
+            0.24650420248508453,
+            0.14110448956489563,
+            0.1070931926369667,
+            0.10699911415576935
+          ]
+        },
+        {
+          "timestamp": 30,
+          "bee_count": 3,
+          "avg_confidence": 0.16682174305121103,
+          "individual_confidences": [
+            0.19521398842334747,
+            0.1940128654241562,
+            0.11123837530612946
+          ]
+        },
+        {
+          "timestamp": 40,
+          "bee_count": 5,
+          "avg_confidence": 0.18782599419355392,
+          "individual_confidences": [
+            0.24947002530097961,
+            0.2352312058210373,
+            0.20079363882541656,
+            0.14212441444396973,
+            0.11151068657636642
+          ]
+        },
+        {
+          "timestamp": 50,
+          "bee_count": 3,
+          "avg_confidence": 0.14601833124955496,
+          "individual_confidences": [
+            0.1852993220090866,
+            0.13374491035938263,
+            0.11901076138019562
+          ]
+        },
+        {
+          "timestamp": 60,
+          "bee_count": 6,
+          "avg_confidence": 0.1582202141483625,
+          "individual_confidences": [
+            0.22926244139671326,
+            0.18891173601150513,
+            0.155110701918602,
+            0.1332356035709381,
+            0.12686574459075928,
+            0.1159350574016571
+          ]
+        }
+      ]
+    }
+  ],
+  "week_info": {
+    "week": 5,
+    "plant_type": "birds_beak",
+    "relative_path": "week_5/day_1/site_4/afternoon/P1000408.MP4"
+  }
+}

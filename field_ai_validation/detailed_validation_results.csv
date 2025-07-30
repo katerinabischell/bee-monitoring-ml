@@ -1,0 +1,153 @@
+Date,Week ,Site #,Camera #,Start Time,End Time,Weather,Conditions,Wind,Wind direction,Activity on site,Activity around ,Video Duration,Shift type,Notes,Plant_Type,Camera # (very important for uploading and labeling correctly),W. Conditions,field_bombus_on_site,field_bombus_around,field_bombus_any,video_id,ai_prediction,ai_confidence,field_observation
+2025-06-19,1b,1.0,1.0,11:00:00,11:30:00,66.0,overcast,2.5,S ,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_1b_1.0_1.0_Morning,0,0.14278457739899011,0
+2025-06-19,1b,2.0,2.0,11:00:00,11:30:00,66.0,overcast,2.5,S ,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_1b_2.0_2.0_Morning,0,0.09055505604341813,0
+2025-06-19,1b,3.0,1.0,11:30:00,12:00:00,68.0,overcast,5.5,SW,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_1b_3.0_1.0_Morning,0,0.12337197152841732,0
+2025-06-19,1b,4.0,2.0,11:30:00,12:00:00,68.0,overcast,5.5,SW,none,"small bird flying over plant, landing on stakes",9 min,Morning,?,Birds_Beak,,,False,False,False,Birds_Beak_1b_4.0_2.0_Morning,0,0.08301663381870297,0
+2025-06-19,1b,3.0,1.0,12:00:00,12:30:00,68.0,overcast,4.8,SW,none,"small bird flying over plant, landing on stakes",30 min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_1b_3.0_1.0_Mid,0,0.12869956264996635,0
+2025-06-19,1b,2.0,2.0,12:00:00,12:30:00,68.0,overcast,4.8,SW,none,none,13.07 min,Mid,?,Birds_Beak,,,False,False,False,Birds_Beak_1b_2.0_2.0_Mid,0,0.18776719163219627,0
+2025-06-19,1b,4.0,1.0,12:30:00,13:00:00,68.0,mostly cloudy,4.5,SW,none,none,14 min,Mid,14 min bc camera died,Birds_Beak,,,False,False,False,Birds_Beak_1b_4.0_1.0_Mid,0,0.1043230498335654,0
+2025-06-19,1b,1.0,2.0,12:30:00,13:00:00,68.0,mostly cloudy,4.5,SW,none,none,30 min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_1b_1.0_2.0_Mid,0,0.2878561235001135,0
+2025-06-19,1b,2.0,1.0,15:00:00,15:30:00,69.0,sunny,6.1,SW,none,none,30 min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_1b_2.0_1.0_Afternoon,0,0.2583434839506441,0
+2025-06-19,1b,1.0,2.0,15:00:00,15:30:00,69.0,sunny,6.1,SW,none,none,12 min then froze,Afternoon,32G SD card is glitchy- camera falls asleep,Birds_Beak,,,False,False,False,Birds_Beak_1b_1.0_2.0_Afternoon,0,0.2426475737663697,0
+2025-06-19,1b,3.0,1.0,15:30:00,16:00:00,69.0,sunny,7.2,SW,none,none,11:19min,Afternoon,overheated/died,Birds_Beak,,,False,False,False,Birds_Beak_1b_3.0_1.0_Afternoon,0,0.007898764265533575,0
+2025-06-19,1b,4.0,2.0,15:30:00,16:00:00,69.0,sunny,7.2,SW,none,none,0,Afternoon,overheated/died,Birds_Beak,,,False,False,False,Birds_Beak_1b_4.0_2.0_Afternoon,0,0.0036575344797366792,0
+2025-06-20,1c,1.0,1.0,14:00:00,14:30:00,71.0,sunny,2.3,SW,1 bombus vos. on plan,bombus vos. around + others,30 min,Mid,troubleshooting with cardboard and yarn,Birds_Beak,,,True,True,True,Birds_Beak_1c_1.0_1.0_Mid,1,0.884231934774503,1
+2025-06-20,1c,2.0,2.0,14:00:00,14:30:00,71.0,sunny,2.3,SW,bombus v in quadrants w orange pollen,none,30 min,Mid,troubleshooting with cardboard and yarn,Birds_Beak,,,True,False,True,Birds_Beak_1c_2.0_2.0_Mid,1,0.9486409010358854,1
+2025-06-20,1c,3.0,1.0,14:30:00,15:00:00,71.0,sunny,2.8,SW,bombus v in quadrants w orange pollen,bombus v. ,30 min,Mid,troubleshooting with cardboard and yarn,Birds_Beak,,,True,True,True,Birds_Beak_1c_3.0_1.0_Mid,1,0.8567867483930753,1
+2025-06-20,1c,4.0,2.0,14:30:00,15:00:00,71.0,sunny,2.8,SW,bombus v in quadrants w orange pollen,bombus v. ,30 min,Mid,troubleshooting with cardboard and yarn,Birds_Beak,,,True,True,True,Birds_Beak_1c_4.0_2.0_Mid,1,0.851433529672884,1
+2025-06-23,2a,3.0,2.0,09:00:00,09:30:00,66.0,sunny,2.8,S,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2a_3.0_2.0_Morning,0,0.018390268213614825,0
+2025-06-23,2a,2.0,1.0,09:30:00,10:00:00,66.0,sunny,2.8,S,none,1 b. californicus,30 min,Morning,32GB card ran out of memory; switched to the 64GB card.,Birds_Beak,,,False,True,True,Birds_Beak_2a_2.0_1.0_Morning,1,0.8925142892223511,1
+2025-06-23,2a,4.0,2.0,09:30:00,10:00:00,67.0,sunny,5.1,SSW,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2a_4.0_2.0_Morning,0,0.006309414181354478,0
+2025-06-23,2a,1.0,1.0,10:00:00,10:30:00,67.0,sunny,5.1,SSW,none,none,30 min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2a_1.0_1.0_Morning,0,0.1811090339311411,0
+2025-06-23,2a,2.0,1.0,13:00:00,13:30:00,69.0,sunny,5.5,SSW,none,none,30 min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_2a_2.0_1.0_Mid,0,0.158044150474668,0
+2025-06-23,2a,1.0,2.0,13:00:00,13:30:00,69.0,sunny,5.5,SSW,none,none,30 min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_2a_1.0_2.0_Mid,0,0.11892025655337524,0
+2025-06-23,2a,4.0,1.0,15:00:00,15:30:00,67.0,sunny,6.2,SW,none,none,18min,Mid,Camera died while recording,Birds_Beak,,,False,False,False,Birds_Beak_2a_4.0_1.0_Mid,0,0.2925574826598206,0
+2025-06-23,2a,3.0,2.0,15:00:00,15:30:00,67.0,sunny,6.2,SW,2 b. californicus with orange pollen (1 maybe with a phoretic mite on thorax?),2 b. californicus ,30 min,Mid,,Birds_Beak,,,True,True,True,Birds_Beak_2a_3.0_2.0_Mid,1,0.9639480833558487,1
+2025-06-23,2a,1.0,2.0,17:40:00,18:10:00,64.0,sunny,7.0,WSW,none,none,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_2a_1.0_2.0_Afternoon,0,0.27116629491172334,0
+2025-06-23,2a,2.0,1.0,17:40:00,18:10:00,64.0,sunny,7.0,WSW,none,none,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_2a_2.0_1.0_Afternoon,0,0.06807273226507066,0
+2025-06-23,2a,3.0,1.0,18:10:00,18:25:00,64.0,sunny,2.1,WSW,none,none,15min,Afternoon,Camera died while recording,Birds_Beak,,,False,False,False,Birds_Beak_2a_3.0_1.0_Afternoon,0,0.07727263077908882,0
+2025-06-23,2a,4.0,2.0,18:10:00,18:12:00,64.0,sunny,2.1,WSW,none,none,2min,Afternoon,Camera died while recording,Birds_Beak,,,False,False,False,Birds_Beak_2a_4.0_2.0_Afternoon,0,0.2495109481064182,0
+2025-06-24,2b,4.0,1.0,09:00:00,09:30:00,61.0,overcast,2.4,SSE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2b_4.0_1.0_Morning,0,0.13249510624324176,0
+2025-06-24,2b,3.0,2.0,09:00:00,09:30:00,61.0,overcast,2.4,SSE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2b_3.0_2.0_Morning,0,0.12277659090047749,0
+2025-06-24,2b,1.0,1.0,09:30:00,10:00:00,61.0,overcast,3.2,SSE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2b_1.0_1.0_Morning,0,0.2635930869471914,0
+2025-06-24,2b,2.0,2.0,09:30:00,10:00:00,61.0,overcast,3.2,SSE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2b_2.0_2.0_Morning,0,0.09542377999476717,0
+2025-06-24,2b,1.0,1.0,12:30:00,13:00:00,64.0,overcast,6.6,SSW,none,none,30min,Mid,Bembix flying around,Birds_Beak,,,False,False,False,Birds_Beak_2b_1.0_1.0_Mid,0,0.13912495297258937,0
+2025-06-24,2b,2.0,2.0,12:30:00,13:00:00,64.0,overcast,6.6,SSW,none,none,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_2b_2.0_2.0_Mid,0,0.09534918730987958,0
+2025-06-24,2b,4.0,1.0,13:00:00,13:30:00,65.0,overcast,5.1,SSW,none,none,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_2b_4.0_1.0_Mid,0,0.1803908677809586,0
+2025-06-24,2b,3.0,2.0,13:00:00,13:30:00,65.0,overcast,5.1,SSW,none,1 b. californicus ,30min,Mid,,Birds_Beak,,,False,True,True,Birds_Beak_2b_3.0_2.0_Mid,1,0.8863918778895463,1
+2025-06-24,2b,1.0,1.0,15:00:00,15:30:00,65.0,mostly cloudy,6.8,SW,none,none,30min,Afternoon,Maybe 1 Bombus in background. Became sunny 1/2 way through recording.,Birds_Beak,,,False,False,False,Birds_Beak_2b_1.0_1.0_Afternoon,0,0.28807931619487603,0
+2025-06-24,2b,2.0,2.0,15:00:00,15:30:00,65.0,mostly cloudy,6.8,SW,none,none,30min,Afternoon,Became sunny 1/2 way through recording.,Birds_Beak,,,False,False,False,Birds_Beak_2b_2.0_2.0_Afternoon,0,0.1279402630183731,0
+2025-06-24,2b,4.0,1.0,15:30:00,16:00:00,64.0,sunny,7.0,SW,none,2 b. californicus,30min,Afternoon,,Birds_Beak,,,False,True,True,Birds_Beak_2b_4.0_1.0_Afternoon,1,0.8972421359924088,1
+2025-06-24,2b,3.0,2.0,15:30:00,16:00:00,64.0,sunny,7.0,SW,1 b. californicus,1 b. californicus,30min,Afternoon,,Birds_Beak,,,True,True,True,Birds_Beak_2b_3.0_2.0_Afternoon,1,0.9247713249741413,1
+2025-06-26,2c,4.0,1.0,10:00:00,10:30:00,63.0,overcast,2.9,SE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2c_4.0_1.0_Morning,0,0.10267982833355029,0
+2025-06-26,2c,3.0,2.0,10:00:00,10:30:00,63.0,overcast,2.9,SE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2c_3.0_2.0_Morning,0,0.19650245058003965,0
+2025-06-26,2c,2.0,1.0,10:30:00,11:00:00,63.0,overcast,2.6,SE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2c_2.0_1.0_Morning,0,0.29672490386368994,0
+2025-06-26,2c,1.0,2.0,10:30:00,11:00:00,63.0,overcast,2.6,SE,none,none,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_2c_1.0_2.0_Morning,0,0.031157697649092174,0
+2025-06-26,2c,1.0,1.0,12:30:00,13:00:00,66.0,mostly cloudy,7.0,SSW,none,none,25:37min,Mid,camera stopped recording: memory card full,Birds_Beak,,,False,False,False,Birds_Beak_2c_1.0_1.0_Mid,0,0.23389782311898336,0
+2025-06-26,2c,4.0,2.0,12:30:00,13:00:00,66.0,mostly cloudy,7.0,SSW,none,1 b. californicus,12:40min,Mid,camera stopped recording: memory card full. Bembix sp flying around.,Birds_Beak,,,False,True,True,Birds_Beak_2c_4.0_2.0_Mid,1,0.991797286159877,1
+2025-06-26,2c,4.0,1.0,16:00:00,16:30:00,66.0,mostly cloudy,8.1,WSW,none,1 b. californicus,30min,Afternoon,,Birds_Beak,,,False,True,True,Birds_Beak_2c_4.0_1.0_Afternoon,1,0.9155168875857426,1
+2025-06-26,2c,1.0,2.0,16:00:00,16:30:00,66.0,mostly cloudy,8.1,WSW,none,1 b. californicus,30min,Afternoon,,Birds_Beak,,,False,True,True,Birds_Beak_2c_1.0_2.0_Afternoon,1,0.8998843230819755,1
+2025-06-26,2c,3.0,1.0,16:30:00,17:00:00,68.0,mostly cloudy,8.4,WSW,none,none,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_2c_3.0_1.0_Afternoon,0,0.0170463030221891,0
+2025-06-26,2c,2.0,2.0,16:30:00,17:00:00,68.0,mostly cloudy,8.4,WSW,1 b. californicus,1 b. californicus,30min,Afternoon,,Birds_Beak,,,True,True,True,Birds_Beak_2c_2.0_2.0_Afternoon,1,0.8889177656584825,1
+2025-07-03,3a,1.0,1.0,09:30:00,10:00:00,65.0,overcast,3.5,ESE,na,white butterflies,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_3a_1.0_1.0_Morning,0,0.07934522938273426,0
+2025-07-03,3a,2.0,2.0,09:30:00,10:00:00,65.0,overcast,3.5,ESE,na,white butterflies,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_3a_2.0_2.0_Morning,0,0.021572856105508218,0
+2025-07-03,3a,3.0,1.0,10:00:00,10:30:00,65.0,overcast,2.2,SE,na,white igret,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_3a_3.0_1.0_Morning,0,0.0014817640841914613,0
+2025-07-03,3a,4.0,2.0,10:00:00,10:30:00,65.0,overcast,2.2,SE,na,white igret,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_3a_4.0_2.0_Morning,1,0.40908798460623386,0
+2025-07-03,3a,1.0,1.0,02:00:00,02:30:00,73.0,sunny,4.8,WSW,na,na,30min,Mid,"see video with timestamp, too windy for bees? no insects out at all",Birds_Beak,,,False,False,False,Birds_Beak_3a_1.0_1.0_Mid,0,0.2871155431898052,0
+2025-07-03,3a,2.0,2.0,02:00:00,02:30:00,73.0,sunny,4.8,WSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_3a_2.0_2.0_Mid,0,0.09875670477371377,0
+2025-07-03,3a,3.0,1.0,02:30:00,03:00:00,73.0,sunny,7.0,WSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_3a_3.0_1.0_Mid,0,0.12454941777936376,0
+2025-07-03,3a,4.0,2.0,02:30:00,03:00:00,73.0,sunny,7.0,WSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_3a_4.0_2.0_Mid,0,0.10654480499218356,0
+2025-07-03,3a,4.0,2.0,03:00:00,03:30:00,73.0,sunny,8.3,WSW,2 bombus,1 bombus flying close,30min,Afternoon,,Birds_Beak,,,True,True,True,Birds_Beak_3a_4.0_2.0_Afternoon,1,0.9649113280422905,1
+2025-07-03,3a,3.0,1.0,03:00:00,03:30:00,73.0,sunny,8.3,WSW,na,1 bombus flying close,30min,Afternoon,,Birds_Beak,,,False,True,True,Birds_Beak_3a_3.0_1.0_Afternoon,1,0.9412477413760314,1
+2025-07-03,3a,1.0,2.0,03:30:00,04:00:00,73.0,sunny,7.8,WSW,na,1 bombus flying close,20 min,Afternoon,died,Birds_Beak,,,False,True,True,Birds_Beak_3a_1.0_2.0_Afternoon,1,0.9986891289616705,1
+2025-07-03,3a,2.0,1.0,03:30:00,04:00:00,73.0,sunny,7.8,WSW,1 bombus,2 bombus flying close,22 min,Afternoon,died,Birds_Beak,,,True,True,True,Birds_Beak_3a_2.0_1.0_Afternoon,1,0.8651619528693604,1
+2025-07-07,4a,3.0,1.0,09:30:00,10:00:00,63.0,overcast,4.2,SW,na,1 bombus,30min,Morning,,Birds_Beak,,,False,True,True,Birds_Beak_4a_3.0_1.0_Morning,1,0.9649136759630002,1
+2025-07-07,4a,4.0,2.0,09:30:00,10:00:00,63.0,overcast,4.2,SW,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4a_4.0_2.0_Morning,0,0.11182049613200425,0
+2025-07-07,4a,1.0,1.0,10:00:00,10:30:00,65.0,overcast,3.1,SW,1 bombus,na,30min,Morning,,Birds_Beak,,,True,False,True,Birds_Beak_4a_1.0_1.0_Morning,1,0.9324913546457313,1
+2025-07-07,4a,2.0,2.0,10:00:00,10:30:00,65.0,overcast,3.1,SW,na,2 bombus,30min,Morning,,Birds_Beak,,,False,True,True,Birds_Beak_4a_2.0_2.0_Morning,1,0.9983675392292648,1
+2025-07-07,4a,2.0,1.0,01:00:00,01:30:00,68.0,sunny,2.8,WSW,1,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4a_2.0_1.0_Mid,0,0.04230501574781289,0
+2025-07-07,4a,1.0,2.0,01:00:00,01:30:00,68.0,sunny,2.8,WSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4a_1.0_2.0_Mid,0,0.14833415938498568,0
+2025-07-07,4a,4.0,1.0,01:30:00,02:00:00,68.0,sunny,3.2,WSW,na,1,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4a_4.0_1.0_Mid,0,0.2039844604089006,0
+2025-07-07,4a,3.0,2.0,01:30:00,02:00:00,68.0,sunny,3.2,WSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4a_3.0_2.0_Mid,0,0.15920207715956639,0
+2025-07-07,4a,3.0,1.0,03:30:00,04:00:00,68.0,sunny,3.0,SW,na,na,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4a_3.0_1.0_Afternoon,0,0.00783536733132366,0
+2025-07-07,4a,4.0,2.0,03:30:00,04:00:00,68.0,sunny,3.0,SW,1,2,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4a_4.0_2.0_Afternoon,0,0.18801249159125447,0
+2025-07-07,4a,1.0,1.0,04:00:00,04:30:00,68.0,sunny,4.2,SW,1,none,25min,Afternoon,died,Birds_Beak,,,False,False,False,Birds_Beak_4a_1.0_1.0_Afternoon,0,0.04653418906259477,0
+2025-07-07,4a,2.0,2.0,04:00:00,04:30:00,68.0,sunny,4.2,SW,na,2,22min ,Afternoon,died,Birds_Beak,,,False,False,False,Birds_Beak_4a_2.0_2.0_Afternoon,0,0.2365844124625419,0
+2025-07-09,4b,1.0,1.0,10:00:00,10:30:00,70.0,sunny,3.0,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4b_1.0_1.0_Morning,0,0.2604097661881188,0
+2025-07-09,4b,2.0,2.0,10:00:00,10:30:00,70.0,sunny,3.0,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4b_2.0_2.0_Morning,0,0.01978950938389281,0
+2025-07-09,4b,3.0,1.0,10:30:00,11:00:00,70.0,sunny,5.2,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4b_3.0_1.0_Morning,0,0.10159214065466972,0
+2025-07-09,4b,4.0,2.0,10:30:00,11:00:00,70.0,sunny,5.2,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4b_4.0_2.0_Morning,0,0.0688615276330822,0
+2025-07-09,4b,3.0,1.0,11:00:00,11:30:00,72.0,sunny,2.8,SSW,na,1,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4b_3.0_1.0_Mid,1,0.42589365841733473,0
+2025-07-09,4b,4.0,2.0,11:00:00,11:30:00,72.0,sunny,2.8,SSW,1,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4b_4.0_2.0_Mid,0,0.21840313766902708,0
+2025-07-09,4b,2.0,1.0,11:30:00,12:00:00,73.0,sunny,3.0,SSW,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4b_2.0_1.0_Mid,0,0.22493956191638917,0
+2025-07-09,4b,1.0,2.0,11:30:00,12:00:00,73.0,sunny,3.0,SSW,1,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4b_1.0_2.0_Mid,0,0.15811126909739906,0
+2025-07-09,4b,3.0,1.0,13:00:00,13:30:00,74.0,sunny,3.1,SSE,na,1,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4b_3.0_1.0_Afternoon,0,0.08989263544373989,0
+2025-07-09,4b,4.0,2.0,13:00:00,13:30:00,74.0,sunny,3.1,SSE,1,na,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4b_4.0_2.0_Afternoon,0,0.1467481009097659,0
+2025-07-09,4b,1.0,1.0,13:30:00,14:00:00,74.0,sunny,5.1,SSE,1,na,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4b_1.0_1.0_Afternoon,0,0.16203644342406387,0
+2025-07-09,4b,2.0,1.0,13:30:00,14:00:00,74.0,sunny,5.1,SSE,2,na,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4b_2.0_1.0_Afternoon,0,0.23606319313749513,0
+2025-07-11,4c,1.0,1.0,09:30:00,10:00:00,59.0,overcast,3.2,SE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4c_1.0_1.0_Morning,0,0.009581250479406334,0
+2025-07-11,4c,2.0,2.0,09:30:00,10:00:00,59.0,overcast,3.2,SE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4c_2.0_2.0_Morning,0,0.090628493839614,0
+2025-07-11,4c,3.0,1.0,10:30:00,11:00:00,59.0,overcast,3.2,SE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4c_3.0_1.0_Morning,0,0.0843927769382663,0
+2025-07-11,4c,4.0,2.0,10:30:00,11:00:00,59.0,overcast,3.2,SE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_4c_4.0_2.0_Morning,0,0.14641807247372648,0
+2025-07-11,4c,1.0,1.0,12:00:00,12:30:00,68.0,mostly cloudy,2.8,S,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4c_1.0_1.0_Mid,0,0.05413603437126004,0
+2025-07-11,4c,2.0,2.0,12:00:00,12:30:00,68.0,mostly cloudy,2.8,S,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4c_2.0_2.0_Mid,0,0.11466535900684165,0
+2025-07-11,4c,3.0,1.0,12:30:00,01:00:00,68.0,mostly cloudy,4.6,S,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4c_3.0_1.0_Mid,0,0.12795985556215614,0
+2025-07-11,4c,4.0,2.0,12:30:00,01:00:00,68.0,mostly cloudy,4.6,S,na,na,30min,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_4c_4.0_2.0_Mid,0,0.21442283168615442,0
+2025-07-11,4c,3.0,1.0,01:00:00,01:30:00,69.0,mostly cloudy,5.3,S,1 bombus,na,30min,Afternoon,,Birds_Beak,,,True,False,True,Birds_Beak_4c_3.0_1.0_Afternoon,0,0.525705356025357,1
+2025-07-11,4c,4.0,2.0,01:00:00,01:30:00,69.0,mostly cloudy,5.3,S,na,na,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4c_4.0_2.0_Afternoon,0,0.061864585872288186,0
+2025-07-11,4c,1.0,1.0,01:30:00,02:00:00,71.0,sunny,6.2,S,2,1,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4c_1.0_1.0_Afternoon,0,0.11448476340448503,0
+2025-07-11,4c,2.0,2.0,01:30:00,02:00:00,71.0,sunny,6.2,S,2,1,30min,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_4c_2.0_2.0_Afternoon,0,0.0773866728016091,0
+2025-07-14,5a,1.0,1.0,09:30:00,10:00:00,67.0,overcast,3.5,SSW,na,na,30min,Morning,lots of little white moths,Birds_Beak,,,False,False,False,Birds_Beak_5a_1.0_1.0_Morning,0,0.03872774735380252,0
+2025-07-14,5a,2.0,2.0,09:30:00,10:00:00,67.0,overcast,3.5,SSW,na,na,30min,Morning,lots of little white moths,Birds_Beak,,,False,False,False,Birds_Beak_5a_2.0_2.0_Morning,0,0.014537840814756963,0
+2025-07-14,5a,3.0,1.0,10:00:00,10:30:00,67.0,overcast,2.1,SSW,1 nimbus,na,30min,Morning,lots of little white moths,Birds_Beak,,,False,False,False,Birds_Beak_5a_3.0_1.0_Morning,0,0.24305655239384172,0
+2025-07-14,5a,4.0,2.0,10:00:00,10130,67.0,overcast,2.1,SSW,na,na,30min,Morning,lots of little white moths,Birds_Beak,,,False,False,False,Birds_Beak_5a_4.0_2.0_Morning,0,0.10537527200605457,0
+2025-07-14,5a,1.0,1.0,01:00:00,01:30:00,69.0,slightly cloudy,2.0,SSW,na,"1 honeybee, 5 bombus",30min,Mid,*add slightly cloudy condition,Birds_Beak,,,False,True,True,Birds_Beak_5a_1.0_1.0_Mid,1,0.8921382753482189,1
+2025-07-14,5a,2.0,2.0,01:00:00,01:30:00,69.0,slightly cloudy,2.0,SSW,na,na,30min,Mid,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_2.0_2.0_Mid,0,0.19354431258272692,0
+2025-07-14,5a,3.0,1.0,01:30:00,02:00:00,70.0,slightly cloudy,4.7,SSW,1 yellow moth,1 wasp,30min,Mid,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_3.0_1.0_Mid,0,0.1206869770062551,0
+2025-07-14,5a,4.0,2.0,01:30:00,02:00:00,70.0,slightly cloudy,4.7,SSW,na,1 bombus queen,30min,Mid,*add slightly cloudy condition,Birds_Beak,,,False,True,True,Birds_Beak_5a_4.0_2.0_Mid,0,0.535307099256582,1
+2025-07-14,5a,3.0,1.0,17:00:00,17:30:00,67.0,slightly cloudy,8.2,WSW,na,na,30min,Afternoon,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_3.0_1.0_Afternoon,0,0.036758402916366374,0
+2025-07-14,5a,4.0,2.0,17:00:00,17:30:00,67.0,slightly cloudy,8.2,WSW,na,na,30min,Afternoon,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_4.0_2.0_Afternoon,0,0.10997459031242937,0
+2025-07-14,5a,1.0,1.0,17:30:00,18:00:00,67.0,slightly cloudy,8.2,WSW,na,na,30min,Afternoon,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_1.0_1.0_Afternoon,0,0.24839721414643323,0
+2025-07-14,5a,2.0,2.0,17:30:00,18:00:00,67.0,slightly cloudy,8.2,WSW,na,na,30min,Afternoon,*add slightly cloudy condition,Birds_Beak,,,False,False,False,Birds_Beak_5a_2.0_2.0_Afternoon,0,0.28841177048802824,0
+2025-07-16,5b,1.0,1.0,10:00:00,10:30:00,67.0,overcast,3.2,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_5b_1.0_1.0_Morning,0,0.00036435842272708463,0
+2025-07-16,5b,2.0,2.0,10:00:00,10:30:00,67.0,overcast,3.2,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_5b_2.0_2.0_Morning,0,0.054996399469736,0
+2025-07-16,5b,3.0,1.0,10:30:00,11:00:00,67.0,overcast,4.6,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_5b_3.0_1.0_Morning,1,0.7730189586518172,0
+2025-07-16,5b,4.0,2.0,10:30:00,11:00:00,67.0,overcast,4.6,SSE,na,na,30min,Morning,,Birds_Beak,,,False,False,False,Birds_Beak_5b_4.0_2.0_Morning,0,0.2775562572584199,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.11696036625187696,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.2254365122245244,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,1,0.45417461926661096,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.09517988102083115,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.11696036625187696,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.2254365122245244,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,1,0.45417461926661096,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.09517988102083115,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.11696036625187696,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.2254365122245244,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,1,0.45417461926661096,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.09517988102083115,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.11696036625187696,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.2254365122245244,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,1,0.45417461926661096,0
+2025-07-16,5b,,,,,,,,,none,none,,Mid,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Mid,0,0.09517988102083115,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.08383872385574466,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.029486599595333507,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.008852749879843424,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.10443727787895934,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.08383872385574466,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.029486599595333507,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.008852749879843424,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.10443727787895934,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.08383872385574466,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.029486599595333507,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.008852749879843424,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.10443727787895934,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.08383872385574466,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.029486599595333507,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.008852749879843424,0
+2025-07-16,5b,,,,,,,,,none,none,,Afternoon,,Birds_Beak,,,False,False,False,Birds_Beak_5b_nan_nan_Afternoon,0,0.10443727787895934,0
+2025-07-15,5a,2.0,,09:50:00,10:20:00,63.0,,2.8,SSE,2 b. californicus,8 b. californicus,30min,Morning,,Ventura_Milkvetch,1.0,overcast,True,True,True,Ventura_Milkvetch_5a_2.0_nan_Morning,1,0.9922822477265479,1
+2025-07-15,5a,1.0,,09:50:00,10:20:00,63.0,,2.8,SSE,2 b. californicus,8 b. californicus,30min,Morning,,Ventura_Milkvetch,2.0,overcast,True,True,True,Ventura_Milkvetch_5a_1.0_nan_Morning,1,0.9684043592089834,1
+2025-07-15,5a,2.0,,12:10:00,12:40:00,66.0,,2.9,S,4 b. californicus,11 b. californicus,30min,Mid,,Ventura_Milkvetch,1.0,overcast,True,True,True,Ventura_Milkvetch_5a_2.0_nan_Mid,1,0.945535831591242,1
+2025-07-15,5a,1.0,,12:10:00,12:40:00,66.0,,2.9,S,2 b. californicus,11 b. californicus,30min,Mid,,Ventura_Milkvetch,2.0,overcast,True,True,True,Ventura_Milkvetch_5a_1.0_nan_Mid,1,0.8617064510138791,1
+2025-07-15,5a,1.0,,15:10:00,15:40:00,71.0,,2.8,S,3 b. californicus,14 b. californicus,30min,Afternoon,Moth and Apis mellifera activitity around site.,Ventura_Milkvetch,1.0,sunny,True,True,True,Ventura_Milkvetch_5a_1.0_nan_Afternoon,1,0.9264559217973071,1
+2025-07-15,5a,2.0,,15:10:00,15:40:00,71.0,,2.8,S,"1 yellow butterfly, 2 b. californicus",14 b. californicus,30min,Afternoon,,Ventura_Milkvetch,2.0,sunny,True,True,True,Ventura_Milkvetch_5a_2.0_nan_Afternoon,1,0.8661947175294686,1

@@ -1,0 +1,22 @@
+{
+  "models": {
+    "binary_classifier": "best_bombus_model.pth",
+    "object_detector": "models/bombus_object_detection_model.pth",
+    "species_classifier": "models/bombus_species_classifier.pth"
+  },
+  "video_processing": {
+    "segment_duration": 300,
+    "sample_interval": 30,
+    "confidence_threshold": 0.7
+  },
+  "output_directories": {
+    "binary_analysis": "analysis_output/",
+    "object_detection": "object_detection_results/",
+    "species_classification": "species_analysis_results/",
+    "combined_reports": "combined_analysis_reports/"
+  },
+  "field_data": {
+    "observations_file": "Collection Observations3.xlsx",
+    "validation_results": "field_ai_validation/detailed_validation_results.csv"
+  }
+}

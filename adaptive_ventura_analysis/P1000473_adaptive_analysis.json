@@ -1,0 +1,46 @@
+{
+  "video_info": {
+    "path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 6/day 2/site 2/mid/P1000473.MP4",
+    "relative_path": "ventura_milkvetch/week 6/day 2/site 2/mid/P1000473.MP4",
+    "week": "week 6",
+    "plant_type": "ventura_milk_vetch",
+    "filename": "P1000473.MP4"
+  },
+  "confidence_analysis": {
+    "0.1": {
+      "detections": 15,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.2": {
+      "detections": 5,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.3": {
+      "detections": 1,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.4": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 5,
+      "activity_rate": 0.0
+    },
+    "0.5": {
+      "detections": 0,
+      "active_segments": 0,
+      "total_segments": 5,
+      "activity_rate": 0.0
+    }
+  },
+  "optimal_confidence": 0.2,
+  "reasoning": "Moderate activity - lower threshold better",
+  "final_detections": 5,
+  "final_active_segments": 1,
+  "activity_rate": 0.2
+}
