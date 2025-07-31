@@ -1,0 +1,61 @@
+{
+  "video_path": "/Volumes/Expansion/summer2025_ncos_kb_collections/birds_beak/week_1/day_1/P1000065.MP4",
+  "video_name": "P1000065.MP4",
+  "analysis_date": "2025-07-28T21:39:00.625913",
+  "model_used": "models/object_detection/ventura_bombus_yolo/weights/best.pt",
+  "confidence_threshold": 0.1,
+  "video_info": {
+    "duration_seconds": 23.023,
+    "fps": 59.94005994005994,
+    "total_frames": 1380
+  },
+  "summary": {
+    "total_segments": 1,
+    "active_segments": 1,
+    "total_bee_detections": 6,
+    "peak_segment": 1,
+    "peak_detections": 6,
+    "overall_activity_rate": 1.0
+  },
+  "segments": [
+    {
+      "segment_number": 1,
+      "start_time": 0,
+      "end_time": 23.023,
+      "duration": 23.023,
+      "total_detections": 6,
+      "frames_with_bees": 3,
+      "max_simultaneous_bees": 3,
+      "detection_rate": 1.0,
+      "detections": [
+        {
+          "timestamp": 0,
+          "bee_count": 1,
+          "avg_confidence": 0.13904203474521637,
+          "individual_confidences": [
+            0.13904203474521637
+          ]
+        },
+        {
+          "timestamp": 10,
+          "bee_count": 2,
+          "avg_confidence": 0.1182844303548336,
+          "individual_confidences": [
+            0.12366461008787155,
+            0.11290425062179565
+          ]
+        },
+        {
+          "timestamp": 20,
+          "bee_count": 3,
+          "avg_confidence": 0.17636749148368835,
+          "individual_confidences": [
+            0.22233575582504272,
+            0.16014593839645386,
+            0.14662078022956848
+          ]
+        }
+      ]
+    }
+  ]
+}

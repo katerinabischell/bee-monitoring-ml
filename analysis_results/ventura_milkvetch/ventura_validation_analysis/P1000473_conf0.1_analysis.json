@@ -1,0 +1,152 @@
+{
+  "video_path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 6/day 2/site 2/mid/P1000473.MP4",
+  "video_name": "P1000473.MP4",
+  "analysis_date": "2025-07-30T12:27:19.706802",
+  "model_used": "models/object_detection/ventura_bombus_yolo/weights/best.pt",
+  "confidence_threshold": 0.1,
+  "video_info": {
+    "duration_seconds": 132.132,
+    "fps": 59.94005994005994,
+    "total_frames": 7920
+  },
+  "summary": {
+    "total_segments": 1,
+    "active_segments": 1,
+    "total_bee_detections": 15,
+    "peak_segment": 1,
+    "peak_detections": 15,
+    "overall_activity_rate": 1.0
+  },
+  "segments": [
+    {
+      "segment_number": 1,
+      "start_time": 0,
+      "end_time": 132.132,
+      "duration": 132.132,
+      "total_detections": 15,
+      "frames_with_bees": 11,
+      "max_simultaneous_bees": 3,
+      "detection_rate": 0.7857142857142857,
+      "detections": [
+        {
+          "timestamp": 0,
+          "bee_count": 1,
+          "avg_confidence": 0.13148057460784912,
+          "individual_confidences": [
+            0.13148057460784912
+          ]
+        },
+        {
+          "timestamp": 10,
+          "bee_count": 3,
+          "avg_confidence": 0.12874377518892288,
+          "individual_confidences": [
+            0.14811360836029053,
+            0.12910182774066925,
+            0.10901588946580887
+          ]
+        },
+        {
+          "timestamp": 20,
+          "bee_count": 1,
+          "avg_confidence": 0.2229566127061844,
+          "individual_confidences": [
+            0.2229566127061844
+          ]
+        },
+        {
+          "timestamp": 30,
+          "bee_count": 1,
+          "avg_confidence": 0.2591298520565033,
+          "individual_confidences": [
+            0.2591298520565033
+          ]
+        },
+        {
+          "timestamp": 40,
+          "bee_count": 2,
+          "avg_confidence": 0.2660324349999428,
+          "individual_confidences": [
+            0.3029411733150482,
+            0.22912369668483734
+          ]
+        },
+        {
+          "timestamp": 50,
+          "bee_count": 1,
+          "avg_confidence": 0.14723064005374908,
+          "individual_confidences": [
+            0.14723064005374908
+          ]
+        },
+        {
+          "timestamp": 60,
+          "bee_count": 1,
+          "avg_confidence": 0.1403188705444336,
+          "individual_confidences": [
+            0.1403188705444336
+          ]
+        },
+        {
+          "timestamp": 70,
+          "bee_count": 1,
+          "avg_confidence": 0.14374160766601562,
+          "individual_confidences": [
+            0.14374160766601562
+          ]
+        },
+        {
+          "timestamp": 80,
+          "bee_count": 2,
+          "avg_confidence": 0.17641882970929146,
+          "individual_confidences": [
+            0.22826333343982697,
+            0.12457432597875595
+          ]
+        },
+        {
+          "timestamp": 90,
+          "bee_count": 1,
+          "avg_confidence": 0.10220100730657578,
+          "individual_confidences": [
+            0.10220100730657578
+          ]
+        },
+        {
+          "timestamp": 100,
+          "bee_count": 1,
+          "avg_confidence": 0.17789976298809052,
+          "individual_confidences": [
+            0.17789976298809052
+          ]
+        },
+        {
+          "timestamp": 110,
+          "bee_count": 0,
+          "avg_confidence": 0.0,
+          "individual_confidences": []
+        },
+        {
+          "timestamp": 120,
+          "bee_count": 0,
+          "avg_confidence": 0.0,
+          "individual_confidences": []
+        },
+        {
+          "timestamp": 130,
+          "bee_count": 0,
+          "avg_confidence": 0.0,
+          "individual_confidences": []
+        }
+      ]
+    }
+  ],
+  "video_metadata": {
+    "path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 6/day 2/site 2/mid/P1000473.MP4",
+    "relative_path": "ventura_milkvetch/week 6/day 2/site 2/mid/P1000473.MP4",
+    "week": "week 6",
+    "plant_type": "ventura_milk_vetch",
+    "filename": "P1000473.MP4"
+  },
+  "confidence_tested": 0.1
+}

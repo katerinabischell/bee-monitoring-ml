@@ -1,0 +1,32 @@
+{
+  "phase_1_preparation": [
+    "Backup current models and results",
+    "Set up new directory structure for object detection and species classification",
+    "Install additional dependencies (YOLO, Detectron2, etc.)",
+    "Analyze current model performance and identify improvement areas"
+  ],
+  "phase_2_object_detection": [
+    "Convert existing labeled frames to object detection format (with bounding boxes)",
+    "Train Faster R-CNN or YOLO model for bee detection and counting",
+    "Validate object detection model against current binary classifier",
+    "Implement video segmentation analysis (5-minute chunks)"
+  ],
+  "phase_3_species_classification": [
+    "Collect species-specific training data (synthetic + real)",
+    "Train multi-class classifier for 3 bombus species",
+    "Integrate species classification with object detection pipeline",
+    "Validate species predictions against field observations"
+  ],
+  "phase_4_integration": [
+    "Combine object detection and species classification into unified pipeline",
+    "Create comprehensive reporting system",
+    "Validate entire system against field data",
+    "Deploy for production use on NCOS restoration monitoring"
+  ],
+  "phase_5_optimization": [
+    "Optimize models for real-time processing",
+    "Implement automated quality control",
+    "Create web dashboard for monitoring results",
+    "Scale to other restoration sites"
+  ]
+}

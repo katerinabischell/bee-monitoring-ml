@@ -1,0 +1,46 @@
+{
+  "video_info": {
+    "path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 5/day 1/site 1/mid/P1000411.MP4",
+    "relative_path": "ventura_milkvetch/week 5/day 1/site 1/mid/P1000411.MP4",
+    "week": "week 5",
+    "plant_type": "ventura_milk_vetch",
+    "filename": "P1000411.MP4"
+  },
+  "confidence_analysis": {
+    "0.1": {
+      "detections": 118,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.2": {
+      "detections": 29,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.3": {
+      "detections": 9,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.4": {
+      "detections": 4,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.5": {
+      "detections": 1,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    }
+  },
+  "optimal_confidence": 0.2,
+  "reasoning": "High activity video - 0.3 too conservative, 0.2 captures real activity",
+  "final_detections": 29,
+  "final_active_segments": 1,
+  "activity_rate": 0.2
+}

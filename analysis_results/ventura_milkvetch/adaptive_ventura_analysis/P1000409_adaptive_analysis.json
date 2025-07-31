@@ -1,0 +1,46 @@
+{
+  "video_info": {
+    "path": "/Volumes/Expansion/summer2025_ncos_kb_collections/ventura_milkvetch/week 5/day 1/site 1/morning/P1000409.MP4",
+    "relative_path": "ventura_milkvetch/week 5/day 1/site 1/morning/P1000409.MP4",
+    "week": "week 5",
+    "plant_type": "ventura_milk_vetch",
+    "filename": "P1000409.MP4"
+  },
+  "confidence_analysis": {
+    "0.1": {
+      "detections": 14,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.2": {
+      "detections": 9,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.3": {
+      "detections": 7,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.4": {
+      "detections": 4,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    },
+    "0.5": {
+      "detections": 2,
+      "active_segments": 1,
+      "total_segments": 5,
+      "activity_rate": 0.2
+    }
+  },
+  "optimal_confidence": 0.3,
+  "reasoning": "Standard confidence - consistent detections",
+  "final_detections": 7,
+  "final_active_segments": 1,
+  "activity_rate": 0.2
+}
