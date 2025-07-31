@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .spyproject/
 .DS_Store
+synthetic_image_data/
+bombus_synthetic_image_data/

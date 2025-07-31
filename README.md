@@ -4,8 +4,8 @@
 
 *Author: Katerina Bischel*  
 *Institution: Bren School of Environmental Science & Management, UCSB*  
+*Project: Cheadle Center for Biodiversity and Ecological Restoration*
 *Advisors: Cheadle Center for Biodiversity and Ecological Restoration - Chris Evelyn and Katja Seltmann*
-
 *Supported by: National Science Foundation Project Extending Anthophila research through image and trait digitalization (Big-Bee #DBI2102006)*
 
 ---
@@ -127,6 +127,15 @@ python3 bombus_model_trainer.py
 python3 correct_video_analyzer.py "/path/to/video.mp4"
 ```
 **Output**: Detection timeline, confidence scores, activity summary
+
+### Updates for synthetic training data
+- down_sample_video.py: downsamples video to half the size
+- spit_video_frames.py: splits video into single frames
+- render_bee_views.py: uses 3D photogrammetry model to create multiple views of the bee. Currently there is an issue with a shadow from a lighting source that should be fixed. Requires Blender.
+- autocrop_bee.py: Crops the output from render_bee_views.py to just pixels
+- overlay_bees_random_scaled_rotated_limit10.py: creates a transparent overlay of the bee on the video images.
+
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16415880.svg)](https://doi.org/10.5281/zenodo.16415880)
 
 ---
 
@@ -306,6 +315,7 @@ University of California, Santa Barbara
 
 **Project Partners:**
 - **Cheadle Center for Biodiversity and Ecological Restoration** - Chris Evelyn and Katja Seltmann
+
 
 **For questions about:**
 - **Research methodology**: Contact project team
