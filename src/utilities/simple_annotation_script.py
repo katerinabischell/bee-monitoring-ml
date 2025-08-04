@@ -16,7 +16,7 @@ class SimpleAnnotator:
     def __init__(self, image_dir, label_dir):
         self.image_dir = Path(image_dir)
         self.label_dir = Path(label_dir)
-        self.image_files = sorted([f for f in self.image_dir.glob("*.jpg") if "t01" in f.name or "t02" in f.name])  # Focus on bee frames
+        self.image_files = sorted([f for f in self.image_dir.glob("*.jpg")])  # Show all images
         self.current_idx = 0
         self.boxes = []
         self.fig = None
@@ -38,21 +38,30 @@ class SimpleAnnotator:
         
         # Load existing annotations if any
         label_path = self.label_dir / (image_path.stem + ".txt")
+        print(f"🔍 DEBUG: Looking for label file: {label_path}")
+        print(f"🔍 DEBUG: Label file exists: {label_path.exists()}")
+        
         self.boxes = []
         if label_path.exists():
+            print(f"✅ DEBUG: Loading annotations from {label_path}")
             with open(label_path, 'r') as f:
                 for line in f:
                     if line.strip():
                         parts = line.strip().split()
+                        print(f"🔍 DEBUG: Raw annotation line: {parts}")
                         if len(parts) == 5:
                             class_id, cx, cy, w, h = map(float, parts)
+                            print(f"🔍 DEBUG: YOLO coords: cx={cx}, cy={cy}, w={w}, h={h}")
                             # Convert from YOLO format to pixel coordinates
                             img_h, img_w = self.current_image.shape[:2]
+                            print(f"🔍 DEBUG: Image size: {img_w}x{img_h}")
                             x = (cx - w/2) * img_w
                             y = (cy - h/2) * img_h
                             width = w * img_w
                             height = h * img_h
+                            print(f"🔍 DEBUG: Pixel coords: x={x}, y={y}, w={width}, h={height}")
                             self.boxes.append([x, y, width, height])
+            print(f"🔍 DEBUG: Total boxes loaded: {len(self.boxes)}")
         
         return True
         
