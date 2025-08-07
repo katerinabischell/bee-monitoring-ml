@@ -1,7 +1,0 @@
-names:
-- bombus
-nc: 1
-path: /Users/ktdroppa/Desktop/bee-monitoring-ml/ventura_object_detection_dataset
-test: images/val
-train: images/train
-val: images/val
