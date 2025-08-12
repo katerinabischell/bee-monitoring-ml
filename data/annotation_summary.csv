@@ -1,0 +1,127 @@
+timestamp,timestamp_seconds,frame_filename,has_bee,bee_count,quadrants,quadrant_names,needs_annotation_refinement
+00:26,26,P1000471_ventura_t0026.jpg,True,1,7,bottom-left,True
+01:44,104,P1000471_ventura_t0104.jpg,True,1,4,middle-left,True
+01:55,115,P1000471_ventura_t0115.jpg,True,1,4,middle-left,True
+02:03,123,P1000471_ventura_t0123.jpg,True,1,4,middle-left,True
+02:20,140,P1000471_ventura_t0140.jpg,True,1,4,middle-left,True
+02:26,146,P1000471_ventura_t0146.jpg,True,1,7,bottom-left,True
+02:29,149,P1000471_ventura_t0149.jpg,True,1,7,bottom-left,True
+02:44,164,P1000471_ventura_t0164.jpg,True,1,7,bottom-left,True
+03:01,181,P1000471_ventura_t0181.jpg,True,1,7,bottom-left,True
+03:09,189,P1000471_ventura_t0189.jpg,True,1,7,bottom-left,True
+03:34,214,P1000471_ventura_t0214.jpg,True,1,7,bottom-left,True
+03:39,219,P1000471_ventura_t0219.jpg,True,1,9,bottom-right,True
+03:50,230,P1000471_ventura_t0230.jpg,True,1,5,middle-center,True
+03:56,236,P1000471_ventura_t0236.jpg,True,1,5,middle-center,True
+04:01,241,P1000471_ventura_t0241.jpg,True,1,5,middle-center,True
+04:12,252,P1000471_ventura_t0252.jpg,True,1,8,bottom-middle,True
+04:24,264,P1000471_ventura_t0264.jpg,True,1,9,bottom-right,True
+04:31,271,P1000471_ventura_t0271.jpg,True,1,3,top-right,True
+04:42,282,P1000471_ventura_t0282.jpg,True,1,5,middle-center,True
+04:43,283,P1000471_ventura_t0283.jpg,True,1,8,bottom-middle,True
+05:02,302,P1000471_ventura_t0302.jpg,True,1,4,middle-left,True
+05:05,305,P1000471_ventura_t0305.jpg,True,1,4,middle-left,True
+05:10,310,P1000471_ventura_t0310.jpg,True,1,4,middle-left,True
+05:17,317,P1000471_ventura_t0317.jpg,True,1,4,middle-left,True
+05:35,335,P1000471_ventura_t0335.jpg,True,1,4,middle-left,True
+05:46,346,P1000471_ventura_t0346.jpg,True,1,5,middle-center,True
+05:47,347,P1000471_ventura_t0347.jpg,True,2,"8, 4","bottom-middle, middle-left",True
+05:53,353,P1000471_ventura_t0353.jpg,True,1,4,middle-left,True
+05:59,359,P1000471_ventura_t0359.jpg,True,1,4,middle-left,True
+06:04,364,P1000471_ventura_t0364.jpg,True,1,7,bottom-left,True
+06:06,366,P1000471_ventura_t0366.jpg,True,1,7,bottom-left,True
+06:29,389,P1000471_ventura_t0389.jpg,True,1,9,bottom-right,True
+06:30,390,P1000471_ventura_t0390.jpg,True,1,9,bottom-right,True
+06:34,394,P1000471_ventura_t0394.jpg,True,1,5,middle-center,True
+06:35,395,P1000471_ventura_t0395.jpg,True,1,5,middle-center,True
+06:36,396,P1000471_ventura_t0396.jpg,True,2,"5, 7","middle-center, bottom-left",True
+06:39,399,P1000471_ventura_t0399.jpg,True,3,"4, 7, 9","middle-left, bottom-left, bottom-right",True
+06:41,401,P1000471_ventura_t0401.jpg,True,1,7,bottom-left,True
+06:43,403,P1000471_ventura_t0403.jpg,True,1,1,top-left,True
+06:51,411,P1000471_ventura_t0411.jpg,True,1,1,top-left,True
+06:52,412,P1000471_ventura_t0412.jpg,True,2,"1, 2","top-left, top-middle",True
+06:60,420,P1000471_ventura_t0420.jpg,True,1,8,bottom-middle,True
+07:01,421,P1000471_ventura_t0421.jpg,True,1,8,bottom-middle,True
+07:04,424,P1000471_ventura_t0424.jpg,True,1,6,middle-right,True
+07:08,428,P1000471_ventura_t0428.jpg,True,1,6,middle-right,True
+07:12,432,P1000471_ventura_t0432.jpg,True,1,9,bottom-right,True
+07:17,437,P1000471_ventura_t0437.jpg,True,1,9,bottom-right,True
+07:29,449,P1000471_ventura_t0449.jpg,True,1,9,bottom-right,True
+07:33,453,P1000471_ventura_t0453.jpg,True,1,2,top-middle,True
+07:36,456,P1000471_ventura_t0456.jpg,True,1,2,top-middle,True
+08:06,486,P1000471_ventura_t0486.jpg,True,1,2,top-middle,True
+08:51,531,P1000471_ventura_t0531.jpg,True,1,4,middle-left,True
+09:43,583,P1000471_ventura_t0583.jpg,True,1,1,top-left,True
+09:48,588,P1000471_ventura_t0588.jpg,True,1,1,top-left,True
+10:06,606,P1000471_ventura_t0606.jpg,True,1,1,top-left,True
+10:34,634,P1000471_ventura_t0634.jpg,True,1,1,top-left,True
+10:55,655,P1000471_ventura_t0655.jpg,True,1,5,middle-center,True
+11:21,681,P1000471_ventura_t0681.jpg,True,1,5,middle-center,True
+11:22,682,P1000471_ventura_t0682.jpg,True,2,"5, 5","middle-center, middle-center",True
+11:25,685,P1000471_ventura_t0685.jpg,True,2,"5, 5","middle-center, middle-center",True
+11:30,690,P1000471_ventura_t0690.jpg,True,1,5,middle-center,True
+11:52,712,P1000471_ventura_t0712.jpg,True,1,6,middle-right,True
+11:55,715,P1000471_ventura_t0715.jpg,True,1,5,middle-center,True
+14:01,841,P1000471_ventura_t0841.jpg,True,1,7,bottom-left,True
+14:05,845,P1000471_ventura_t0845.jpg,True,1,7,bottom-left,True
+14:12,852,P1000471_ventura_t0852.jpg,True,1,7,bottom-left,True
+14:34,874,P1000471_ventura_t0874.jpg,True,1,8,bottom-middle,True
+14:38,878,P1000471_ventura_t0878.jpg,True,1,8,bottom-middle,True
+14:39,879,P1000471_ventura_t0879.jpg,True,2,"8, 9","bottom-middle, bottom-right",True
+14:57,897,P1000471_ventura_t0897.jpg,True,1,4,middle-left,True
+15:10,910,P1000471_ventura_t0910.jpg,True,1,4,middle-left,True
+15:15,915,P1000471_ventura_t0915.jpg,True,1,4,middle-left,True
+15:26,926,P1000471_ventura_t0926.jpg,True,1,7,bottom-left,True
+15:33,933,P1000471_ventura_t0933.jpg,True,1,5,middle-center,True
+15:40,940,P1000471_ventura_t0940.jpg,True,1,4,middle-left,True
+15:48,948,P1000471_ventura_t0948.jpg,True,2,"4, 5","middle-left, middle-center",True
+16:04,964,P1000471_ventura_t0964.jpg,True,1,1,top-left,True
+16:06,966,P1000471_ventura_t0966.jpg,True,1,1,top-left,True
+16:12,972,P1000471_ventura_t0972.jpg,True,2,"1, 2","top-left, top-middle",True
+16:24,984,P1000471_ventura_t0984.jpg,True,1,3,top-right,True
+16:28,988,P1000471_ventura_t0988.jpg,True,1,6,middle-right,True
+16:29,989,P1000471_ventura_t0989.jpg,True,1,6,middle-right,True
+16:32,992,P1000471_ventura_t0992.jpg,True,1,2,top-middle,True
+16:41,1001,P1000471_ventura_t1001.jpg,True,1,6,middle-right,True
+16:45,1005,P1000471_ventura_t1005.jpg,True,1,3,top-right,True
+16:47,1007,P1000471_ventura_t1007.jpg,True,3,"7, 5, 3","bottom-left, middle-center, top-right",True
+16:50,1010,P1000471_ventura_t1010.jpg,True,3,"7, 5, 3","bottom-left, middle-center, top-right",True
+16:53,1013,P1000471_ventura_t1013.jpg,True,2,"7, 5","bottom-left, middle-center",True
+16:58,1018,P1000471_ventura_t1018.jpg,True,2,"7, 5","bottom-left, middle-center",True
+17:03,1023,P1000471_ventura_t1023.jpg,True,2,"7, 5","bottom-left, middle-center",True
+17:06,1026,P1000471_ventura_t1026.jpg,True,3,"7, 5, 6","bottom-left, middle-center, middle-right",True
+17:09,1029,P1000471_ventura_t1029.jpg,True,3,"7, 5, 6","bottom-left, middle-center, middle-right",True
+17:13,1033,P1000471_ventura_t1033.jpg,True,3,"7, 5, 6","bottom-left, middle-center, middle-right",True
+17:18,1038,P1000471_ventura_t1038.jpg,True,2,"7, 6","bottom-left, middle-right",True
+17:27,1047,P1000471_ventura_t1047.jpg,True,2,"7, 6","bottom-left, middle-right",True
+17:31,1051,P1000471_ventura_t1051.jpg,True,1,5,middle-center,True
+17:33,1053,P1000471_ventura_t1053.jpg,True,1,8,bottom-middle,True
+17:37,1057,P1000471_ventura_t1057.jpg,True,1,8,bottom-middle,True
+17:42,1062,P1000471_ventura_t1062.jpg,True,1,8,bottom-middle,True
+17:49,1069,P1000471_ventura_t1069.jpg,True,2,"8, 7","bottom-middle, bottom-left",True
+17:52,1072,P1000471_ventura_t1072.jpg,True,2,"7, 7","bottom-left, bottom-left",True
+18:07,1087,P1000471_ventura_t1087.jpg,True,1,7,bottom-left,True
+18:12,1092,P1000471_ventura_t1092.jpg,True,1,7,bottom-left,True
+18:18,1098,P1000471_ventura_t1098.jpg,True,1,4,middle-left,True
+18:20,1100,P1000471_ventura_t1100.jpg,True,1,4,middle-left,True
+18:23,1103,P1000471_ventura_t1103.jpg,True,1,4,middle-left,True
+18:28,1108,P1000471_ventura_t1108.jpg,True,1,4,middle-left,True
+18:31,1111,P1000471_ventura_t1111.jpg,True,2,"4, 7","middle-left, bottom-left",True
+18:41,1121,P1000471_ventura_t1121.jpg,True,2,"7, 8","bottom-left, bottom-middle",True
+18:42,1122,P1000471_ventura_t1122.jpg,True,2,"7, 5","bottom-left, middle-center",True
+18:47,1127,P1000471_ventura_t1127.jpg,True,3,"1, 5, 2","top-left, middle-center, top-middle",True
+18:54,1134,P1000471_ventura_t1134.jpg,True,1,6,middle-right,True
+18:56,1136,P1000471_ventura_t1136.jpg,True,2,"5, 6","middle-center, middle-right",True
+19:02,1142,P1000471_ventura_t1142.jpg,True,1,9,bottom-right,True
+19:05,1145,P1000471_ventura_t1145.jpg,True,1,9,bottom-right,True
+19:12,1152,P1000471_ventura_t1152.jpg,True,1,3,top-right,True
+19:17,1157,P1000471_ventura_t1157.jpg,True,1,3,top-right,True
+19:21,1161,P1000471_ventura_t1161.jpg,True,1,6,middle-right,True
+19:24,1164,P1000471_ventura_t1164.jpg,True,1,6,middle-right,True
+19:35,1175,P1000471_ventura_t1175.jpg,True,1,5,middle-center,True
+19:40,1180,P1000471_ventura_t1180.jpg,True,1,2,top-middle,True
+19:54,1194,P1000471_ventura_t1194.jpg,True,1,3,top-right,True
+20:09,1209,P1000471_ventura_t1209.jpg,True,1,3,top-right,True
+20:26,1226,P1000471_ventura_t1226.jpg,True,1,2,top-middle,True
+20:32,1232,P1000471_ventura_t1232.jpg,True,1,7,bottom-left,True
+21:02,1262,P1000471_ventura_t1262.jpg,True,1,7,bottom-left,True

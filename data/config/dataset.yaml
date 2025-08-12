@@ -1,0 +1,7 @@
+names:
+- bombus
+nc: 1
+path: /Users/ktdroppa/Desktop/ventura-milkvetch/data
+test: extracted_frames
+train: extracted_frames
+val: extracted_frames
