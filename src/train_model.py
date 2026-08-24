@@ -433,4 +433,4 @@ def _parse_args():
 
 
 if __name__ == "__main__":
-    main()
+    main(_parse_args())
