@@ -1,0 +1,9 @@
+run,backbone,initialised_from,epochs_ran,epochs_planned,best_epoch,mAP50,mAP50_95,precision,recall,final_mAP50,final_mAP50_95,split_type
+v1,yolov8n,COCO,50,50,41,0.45384,0.16879,0.72849,0.40625,0.45457,0.16225,non-disjoint (training-fit)
+v2,yolov8s,COCO,150,150,131,0.74550,0.31176,0.87537,0.64789,0.63094,0.20322,non-disjoint (training-fit)
+v23,yolov8n,v1 checkpoint,72,200,42,0.47934,0.16659,0.71662,0.45918,0.41208,0.12894,non-disjoint (training-fit)
+v232,yolov8n,v23 checkpoint,200,200,132,0.63489,0.26152,0.76571,0.46667,0.60136,0.19530,non-disjoint (training-fit)
+v24,yolov8s,v23 checkpoint,8,400,2,0.47533,0.17138,0.71904,0.42997,0.39076,0.13691,non-disjoint (training-fit)
+v25,yolov8s,v23 checkpoint,2,200,2,0.47737,0.16343,0.68924,0.41193,0.47737,0.16343,non-disjoint (training-fit)
+v3_temporal,yolov8s,COCO,,,,0.63158,0.23621,0.73514,0.68421,,,temporal holdout (val)
+v3_temporal,yolov8s,COCO,,,,0.43887,0.17496,0.92664,0.36364,,,temporal holdout (test)

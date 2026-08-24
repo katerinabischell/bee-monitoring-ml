@@ -1,0 +1,27 @@
+# Automated pollinator detection - Ventura milk-vetch
+# Pinned to the environment the published v2 run was trained and evaluated in.
+# Python 3.11.0, macOS (Apple silicon, CPU inference).
+
+# Detection framework (pulls in its own torch/torchvision if absent)
+ultralytics==8.3.170
+
+# Deep learning runtime
+torch==2.7.1
+torchvision==0.22.1
+
+# Video and image I/O
+opencv-python==4.11.0.86
+Pillow==11.3.0
+
+# Numerics and tabular output
+numpy==2.2.6
+pandas==2.3.1
+scipy==1.16.0            # Hungarian assignment + regression in the HyDaT tracker
+
+# Figures and the annotation GUI
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Config and progress
+PyYAML==6.0.2
+tqdm==4.67.1

@@ -1,0 +1,11 @@
+BEE DETECTION COMPILATION SUMMARY
+==================================================
+
+total_detection_frames: 67
+total_individual_bees: 89
+videos_analyzed: 6
+time_periods: ['morning', 'mid', 'afternoon']
+avg_confidence: 0.3873123854733585
+confidence_range: [array(     0.2506, dtype=float32), array(    0.76615, dtype=float32)]
+avg_bees_per_frame: 1.328358208955224
+max_bees_single_frame: 4

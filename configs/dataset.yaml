@@ -1,0 +1,17 @@
+# YOLO dataset definition for the Ventura milk-vetch bee detector.
+#
+# Paths are relative to this file's parent directory, so the repository can be
+# cloned anywhere. The image/label tree itself is NOT distributed with this
+# repository -- see data/README.md for how to obtain it from the Zenodo archive
+# and where to unpack it.
+#
+# Splits are disjoint: no frame appears in more than one split.
+
+path: ../data/yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names:
+  - bee

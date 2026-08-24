@@ -1,0 +1,10 @@
+BEE DETECTION VERIFICATION SUMMARY
+==================================================
+
+Original detections: 89
+Filtered detections (conf ≥ 0.3): 57
+Verification images created: 25
+Average confidence: 0.387
+Reliable detections (conf ≥ 0.5): 16
+
+Recommendation: Use confidence threshold ≥ 0.4 for reliable results

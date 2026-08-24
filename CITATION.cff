@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Automated pollinator detection for rare California coastal
+  plants: a YOLOv8 pipeline for camera-trap footage
+message: >-
+  If you use this software or its outputs, please cite it using
+  the metadata in this file.
+type: software
+authors:
+  - given-names: Katerina
+    family-names: Bischel
+    affiliation: >-
+      Cheadle Center for Biodiversity and Ecological Restoration,
+      University of California, Santa Barbara
+abstract: >-
+  A YOLOv8-based detection pipeline for identifying bumblebee
+  visitors to two federally endangered California coastal plant
+  species, Ventura marsh milk-vetch (Astragalus pycnostachyus var.
+  lanosissimus) and salt marsh bird's-beak (Chloropyron maritimum
+  ssp. maritimum), from camera-trap video recorded at the North
+  Campus Open Space restoration site in Goleta, California during
+  the 2025 field season. The repository covers frame extraction,
+  manual annotation, model training, evaluation, and hybrid
+  detection-and-tracking for visitation events.
+keywords:
+  - pollinator monitoring
+  - object detection
+  - YOLOv8
+  - computer vision
+  - ecological restoration
+  - endangered species
+  - Bombus
+  - camera trap
+license: MIT
+repository-code: 'https://github.com/katerinabischell/bee-monitoring-ml'
+version: 1.0.0
+date-released: '2025-08-22'

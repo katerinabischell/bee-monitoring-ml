@@ -1,0 +1,36 @@
+# Hyperparameters for the published run `ventura_bee_detection_v2`.
+# Extracted verbatim from the Ultralytics args.yaml of that run, with the
+# two path fields rewritten to be repository-relative.
+#
+#   python src/train_model.py --data-dir data --weights yolov8s.pt --epochs 150
+
+model: yolov8s.pt
+data: configs/dataset.yaml
+epochs: 150
+patience: 30
+batch: 8
+imgsz: 640
+rect: false
+optimizer: auto
+lr0: 0.01
+lrf: 0.1
+momentum: 0.937
+weight_decay: 0.0005
+warmup_epochs: 3
+box: 7.5
+cls: 0.5
+dfl: 1.5
+hsv_h: 0.015
+hsv_s: 0.7
+hsv_v: 0.4
+degrees: 0.0
+translate: 0.1
+scale: 0.5
+fliplr: 0.5
+flipud: 0.0
+mosaic: 1.0
+seed: 0
+deterministic: true
+single_cls: false
+cos_lr: false
+close_mosaic: 10
